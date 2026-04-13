@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 1206 篇，覆蓋 16 個行業
+- 總文章數: 1216 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -17,13 +17,13 @@
 ## 行業分類（依文章數排序）
 - [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 360 篇
 - [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 341 篇
-- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 200 篇
-- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 199 篇
-- [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 63 篇
-- [住宿] https://taiwan-encyclopedia.vercel.app/#industry-hotels — 13 篇
-- [活動] https://taiwan-encyclopedia.vercel.app/#industry-events — 8 篇
-- [健康] https://taiwan-encyclopedia.vercel.app/#industry-wellness — 7 篇
-- [美食] https://taiwan-encyclopedia.vercel.app/#industry-food — 5 篇
+- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 201 篇
+- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 200 篇
+- [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 65 篇
+- [住宿] https://taiwan-encyclopedia.vercel.app/#industry-hotels — 14 篇
+- [活動] https://taiwan-encyclopedia.vercel.app/#industry-events — 9 篇
+- [美食] https://taiwan-encyclopedia.vercel.app/#industry-food — 8 篇
+- [健康] https://taiwan-encyclopedia.vercel.app/#industry-wellness — 8 篇
 - [文化] https://taiwan-encyclopedia.vercel.app/#industry-culture — 3 篇
 - [交通] https://taiwan-encyclopedia.vercel.app/#industry-transportation — 2 篇
 - [食材供應] https://taiwan-encyclopedia.vercel.app/#industry-food-supply — 1 篇

@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://taiwan-encyclopedia.vercel.app/</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/llms.txt</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>  <url>
@@ -123,6 +123,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-festival-tourism-臺灣燈節2026-創紀錄316億觀光產值背後的aeo機遇-tw-lantern-fest-d8d282.html</loc>
     <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-festivals-臺灣元宵燈節完整指南2026-平溪天燈-臺灣燈會-鹽水蜂炮-臺灣元宵節費用-twd-攻略-tw-tai-9884bf.html</loc>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -253,6 +258,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-mountain-scenery-阿里山完整旅遊深度指南2026-森林鐵路-祝山日出-神木群-嘉義阿里山費用-twd-攻略-217124.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-museums-臺灣歷史博物館完整指南2026-國立故宮博物院-臺灣歷史博物館-臺灣文化機構費用攻略-tw-taiwan--bb2177.html</loc>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -2141,6 +2151,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-acg-culture-臺灣動漫acg文化完整指南2026-臺北國際動漫節-光華商場-原宿-臺灣acg消費費用-twd-5bcbf2.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-jiufen-九份夜景與藝術體驗-山城燈火中的非傳統節慶-26349c.html</loc>
     <lastmod>2026-03-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -3156,6 +3171,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-events-music-festivals-臺灣音樂節和獨立音樂完整指南2026-野臺開唱-春浪-金曲獎-臺灣音樂場景費用-twd-攻略-tw--ad132f.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-events-religious-culture-臺灣中元節鬼月完整文化指南2026-普渡-放天燈-搶孤-臺灣鬼月文化-免費-攻略-tw-ghos-89c85d.html</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -3176,8 +3196,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-food-aboriginal-food-臺灣原住民飲食文化完整指南2026-16族食材哲學與小米酒烤山豬費用攻略-tw-taiwan-abori-284dbd.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-food-food-culture-comprehensive-臺灣飲食文化完整總覽指南2026-小吃-料理-外省菜-臺灣美食多元文化費用攻略-t-aeb5bb.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-food-historic-food-臺南小吃文化完整指南2026-臺南碗粿-擔仔麵-棺材板-臺南古都美食費用-twd-攻略-tw-tainan--0da3d0.html</loc>
     <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-food-hot-pot-臺灣火鍋文化完整指南2026-麻辣鍋-石頭火鍋-壽喜燒-臺灣火鍋費用-twd-攻略-tw-taiwan-hot-pot--a36b88.html</loc>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -3246,6 +3281,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-hotels-luxury-hotels-臺灣五星酒店完整指南2026-晶華-寒舍艾美-文華東方-臺灣豪華酒店費用-twd-攻略-tw-taiwa-3d1980.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-hotels-mountain-accommodation-阿里山住宿完整指南2026-森林遊樂區-奮起湖-茶山-阿里山旅遊住宿-twd-雲海攻略-7ff3ca.html</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -3278,6 +3318,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-services-digital-payment-臺灣電子支付和數位生活指南2026-line-pay-街口支付-悠遊卡-外籍旅客在臺灣怎麼付款--2f2b09.html</loc>
     <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-crafts-culture-臺灣原住民工藝品完整指南2026-琉璃珠-排灣刺繡-木雕-臺灣原民工藝費用-twd-攻略-tw-t-7f4b03.html</loc>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -6018,6 +6063,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-wellness-hot-spring-臺灣溫泉健康旅遊指南2026-烏來-北投-礁溪-知本泡湯費用與預訂攻略-tw-wellness-hot-s-c2429e.html</loc>
     <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-wellness-hot-spring-comprehensive-臺灣溫泉完整總覽指南2026-北投-礁溪-知本-廬山-臺灣各地溫泉泉質費用攻略-30a2c2.html</loc>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
