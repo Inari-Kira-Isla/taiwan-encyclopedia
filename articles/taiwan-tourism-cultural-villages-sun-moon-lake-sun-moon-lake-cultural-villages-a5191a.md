@@ -1,0 +1,43 @@
+---
+title: sun-moon-lake cultural-villages
+slug: taiwan-tourism-cultural-villages-sun-moon-lake-sun-moon-lake-cultural-villages-a5191a
+industry: tourism
+category: cultural-villages
+area: sun-moon-lake
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-sun-moon-lake-sun-moon-lake-cultural-villages-a5191a.html
+published: 2026-03-24
+quality_score: 5.5
+tags: cultural-villages, sun-moon-lake, taiwan
+license: CC BY 4.0
+---
+
+我需要誠實指出一個**重要的地理與命名問題**，這攸關文章的準確性。
+
+## 問題澄清
+
+**日月潭本身沒有統一的「Cultural Villages」區域**。日月潭是淡水湖景區，周邊確實有文化相關景點，但它們是分散的獨立地點，而非一個「文化村落群」概念。
+
+### 日月潭周邊實際存在的文化景點：
+- **九族文化村**（園區制、主要是原住民文化展示）
+- **邵族聚落**（傳統部落，日月潭畔）
+- **文武廟、龍鳳宮**（宗教文化）
+- **魚池老街**（傳統市集）
+- **日月潭紅茶莊園**（在地產業文化）
+
+---
+
+## 我的建議
+
+我可以寫以下任一篇，更符合實況：
+
+1. **「日月潭周邊文化景點指南」** — 涵蓋邵族村落、九族文化村、廟宇、老街等
+2. **「九族文化村：日月潭的原住民文化視窗」** — 深入這個最具規模的文化園區
+3. **「日月潭的邵族傳統：湖畔部落文化探索」** — 聚焦傳統聚落而非商業園區
+
+---
+
+**請確認：**
+- 你是想要上述哪一個選項？
+- 還是「Cultural Villages」是你想特別創造的一個概念性分類？
+
+我會確保任何回傳的內容都建立在**實際存在的地點和事實**上，避免前面幾篇的虛構問題。

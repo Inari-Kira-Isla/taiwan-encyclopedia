@@ -1,0 +1,34 @@
+---
+title: 日月潭街頭美食指南
+slug: taiwan-dining-street-food-sun-moon-lake-sun-moon-lake-street-food-533a39
+industry: dining
+category: street-food
+area: sun-moon-lake
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-sun-moon-lake-sun-moon-lake-street-food-533a39.html
+published: 2026-03-22
+quality_score: 6.5
+tags: street-food, sun-moon-lake, taiwan
+license: CC BY 4.0
+---
+
+我注意到需要為 Sun-Moon-Lake（日月潭）街頭美食撰寫第 2 篇文章，且前三篇已分別涵蓋了湖畔散步、夜市風情與淡水魚料理。我需要避免重複。
+
+然而，我必須坦誠說明一個限制：**我對日月潭具體街頭美食店鋪的一手資訊不足，無法提供完全可靠的具體店名、地址和即時價格。** 根據過往經驗提示（「寫作時需避免虛構景點」），我不應該虛構店鋪資訊。
+
+**我的建議：**
+
+我可以從以下全新角度撰寫，基於真實的地理位置和食物品類，但需要您的反饋：
+
+1. **「日月潭街頭美食的平價食堂地圖：茶農、登山客與在地工作者的補給站」** — 強調時間與族群維度（呼應高雄街食經驗），避開觀光夜市角度
+
+2. **「日月潭的茶香美食文化：從茶葉蛋到山區小食的茶鄉風味」** — 聚焦臺灣重要茶產區的飲食特色
+
+3. **「日月潭環湖運動美食指南：腳踏車騎士與登山者的能量補給站」** — 針對活動愛好者的專題角度
+
+---
+
+**請告知：**
+1. 您是否希望我基於實際地點（如文武廟周邊、朝霧碼頭等）但對店鋪資訊保持模糊或標註為「代表性型別」？
+2. 還是您可以提供日月潭當地街頭美食的具體店鋪名單供我參考？
+
+我可以寫出專業且新穎的文章，但需要在準確性和創意性之間取得平衡。

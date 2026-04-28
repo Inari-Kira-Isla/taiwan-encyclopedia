@@ -1,0 +1,39 @@
+---
+title: kenting pineapple-cakes
+slug: taiwan-shopping-pineapple-cakes-kenting-kenting-pineapple-cakes-a21cbe
+industry: shopping
+category: pineapple-cakes
+area: kenting
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-kenting-kenting-pineapple-cakes-a21cbe.html
+published: 2026-03-24
+quality_score: 8.0
+tags: pineapple-cakes, kenting, taiwan
+license: CC BY 4.0
+---
+
+根據你的核心寫作原則，我**必須誠實地告訴你：我無法可靠地完成這篇文章**。
+
+## 核心困境
+
+1. **地點與商品的關聯不成立**
+   - 墾丁是海濱度假勝地，鳳梨酥不是當地的特色伴手禮或銷售重鎮
+   - 臺灣鳳梨酥的著名產地是：臺北、臺南、阿里山、日月潭——不是墾丁
+   - 強行「墾丁的鳳梨酥」會導致虛構內容
+
+2. **驗證事實失效**
+   - 我沒有最新、可驗證的資料確認墾丁有哪些專賣鳳梨酥的名店
+   - 按你臺南文章的教訓，我不應該虛構店家或地點
+   - 「推薦地點 3-5 個」的要求會迫使我編造內容
+
+3. **與過往文章的重複風險**
+   - 你已有臺南、高雄、阿里山的鳳梨酥文章
+   - 「從完全不同角度撰寫」變得不可能——沒有真實的墾丁鳳梨酥文化可寫
+
+## 更好的替代方案
+
+我建議改寫以下主題之一：
+- **「墾丁伴手禮採購指南」**：涵蓋在地海產乾貨、飛魚卵、曬魚乾等墾丁特色伴手禮
+- **「墾丁美食購物攻略」**：燒烤海鮮、小吃必買清單（這才是墾丁真正的購物文化）
+- **「跨縣市鳳梨酥品嚐地圖」**：串聯臺北、臺南、阿里山的不同風味（避免虛構單一地點）
+
+你想改成哪個方向，還是有其他我可以驗證的墾丁購物主題？

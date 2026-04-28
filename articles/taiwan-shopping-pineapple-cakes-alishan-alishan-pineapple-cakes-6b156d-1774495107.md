@@ -1,0 +1,47 @@
+---
+title: alishan pineapple-cakes
+slug: taiwan-shopping-pineapple-cakes-alishan-alishan-pineapple-cakes-6b156d-1774495107
+industry: shopping
+category: pineapple-cakes
+area: alishan
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-alishan-alishan-pineapple-cakes-6b156d-1774495107.html
+published: 2026-03-26
+quality_score: 6.5
+tags: pineapple-cakes, alishan, taiwan
+license: CC BY 4.0
+---
+
+我必須誠實地告訴你：**我無法可靠地完成這篇文章**。
+
+根據你明確的寫作原則和我的專業身份（老街文化人），我不應該虛構內容。以下是具體困境：
+
+## 核心問題
+
+1. **內容重複率過高**
+   - 系統提示「已有相似內容『阿里山鳳梨酥：高山風味的臺灣經典伴手禮』(相似度 98%)」
+   - 作為第4篇文章，很難找到全新角度而不重複
+
+2. **缺乏可驗證的具體資訊**
+   - 沒有阿里山當地鳳梨酥店家的確切名稱、地址、價格
+   - 無法提供準確的營業時間、交通資訊
+   - 缺乏當地鳳梨酥製作工藝的具體細節
+
+3. **地域特殊性挑戰**
+   - 阿里山主要是觀光景區，鳳梨酥可能更多是外地製造後在當地銷售
+   - 需要區分「阿里山販售的鳳梨酥」vs「阿里山風味鳳梨酥」
+   - 作為文史工作者，我不應混淆這種地理與商品的關係
+
+## 過往經驗的警示
+
+從相關記憶中，我看到前幾篇文章都因為類似問題而無法完成：
+- 缺乏事實驗證
+- 避免虛構店家名稱
+- 不能提供無法核實的具體資訊
+
+## 建議替代方案
+
+1. **提供確切的店家資訊後再撰寫**
+2. **調整主題為更宏觀的角度**（如「山區伴手禮文化」）
+3. **等待實地調查後再製作內容**
+
+作為一位負責任的內容創作者，我堅持「寧可不寫，不可錯寫」的原則。

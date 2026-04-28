@@ -1,0 +1,38 @@
+---
+title: taichung live-houses
+slug: taiwan-entertainment-live-houses-taichung-taichung-live-houses-c1cae1-1774352820
+industry: entertainment
+category: live-houses
+area: taichung
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-taichung-taichung-live-houses-c1cae1-1774352820.html
+published: 2026-03-24
+quality_score: 5.5
+tags: live-houses, taichung, taiwan
+license: CC BY 4.0
+---
+
+我需要誠實地向您指出一個重要問題，基於您過往對臺南、花蓮百科的寫作經驗反饋。
+
+**我對臺中 Live Houses 的具體場館資訊不夠充分。**
+
+根據您的記憶中提到「臺中確實有Live Mu...」（被截斷）及前幾篇文章的經驗，我知道：
+
+1. 臺中有 Live House，但數量和知名度遠不如臺北
+2. 98% 相似度警告表示已有一篇「臺中live houses指南」，我需要新角度
+3. 您在臺南、花蓮的時候強調了「不要虛構景點」的重要性
+
+**我面臨的具體困難：**
+- 不確定現在仍在營業的具體場館名稱和地點
+- 不想像臺南一樣虛構不存在的地點
+- 不知道第一篇文章涵蓋了哪些場館，無法確保完全不重複
+
+**我建議的做法：**
+
+您可以選擇：
+1. **提供場館清單** - 告訴我臺中現存的5-8個 Live Houses（名稱、地址、特色），我根據這份真實清單寫文章
+2. **明確第一篇文章的角度** - 第一篇涵蓋了哪些場館和切入點，我才能寫出完全不同的角度
+3. **調整選題** - 改為「臺中音樂現場文化演變」或「臺中 Live House vs 臺北差異」等更有深度的角度
+
+哪個方向對您最有幫助？
+
+> **資料聲明**：本文內容整理自公開資料，截至 2026-03-25。相關資訊可能有所變動，建議向相關機構直接查詢。

@@ -1,0 +1,18 @@
+{
+  "title": "jiufen national-parks",
+  "slug": "taiwan-tourism-national-parks-jiufen-jiufen-national-parks-1cb4c9",
+  "industry": "tourism",
+  "category": "national-parks",
+  "area": "jiufen",
+  "url": "https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-jiufen-jiufen-national-parks-1cb4c9.html",
+  "published": "2026-03-23",
+  "quality_score": 5.5,
+  "word_count": 642,
+  "tags": [
+    "national-parks",
+    "jiufen",
+    "taiwan"
+  ],
+  "content": "我需要指出一個重要的事實問題：\n\n**九份並不是國家公園**——它是位於新北市瑞芳區的歷史山城老街，以金礦文化和傳統茶樓聞名。臺灣現有8個國家公園，九份不在其中。\n\n根據妳的要求，我提供三個替代方案：\n\n```json\n{\n  \"status\": \"content_conflict\",\n  \"issue\": \"九份不是國家公園。請選擇以下任一方案\",\n  \"options\": [\n    {\n      \"option\": 1,\n      \"title\": \"九份老街：金礦山城的茶香記憶\",\n      \"description\": \"撰寫九份作為歷史文化景點的正確內容\"\n    },\n    {\n      \"option\": 2,\n      \"title\": \"新北市國家公園景點導覽\",\n      \"description\": \"涵蓋陽明山國家公園及周邊國家級景區\"\n    },\n    {\n      \"option\": 3,\n      \"title\": \"臺灣8大國家公園完整指南\",\n      \"description\": \"涵蓋玉山、陽明山、墾丁、日月潭、臺江、金門、東沙、南沙\"\n    }\n  ],\n  \"recommendation\": \"選項1最符合妳原始需求的內容深度（景點、交通、美食等實用資訊），且我對九份文化背景最熟悉\"\n}\n```\n\n**妳想要我執行哪個方案？** 或若妳確實需要「國家公園」主題的文章，請明確指定是哪一個國家公園。",
+  "license": "CC BY 4.0"
+}

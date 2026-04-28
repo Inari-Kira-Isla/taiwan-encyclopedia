@@ -1,0 +1,41 @@
+---
+title: yilan live-houses
+slug: taiwan-entertainment-live-houses-yilan-yilan-live-houses-6af7db-1774352849
+industry: entertainment
+category: live-houses
+area: yilan
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-yilan-yilan-live-houses-6af7db-1774352849.html
+published: 2026-03-24
+quality_score: 5.5
+tags: live-houses, yilan, taiwan
+license: CC BY 4.0
+---
+
+我需要誠實地指出一個關鍵問題：
+
+**宜蘭縣實際上並不是以 Live Houses（現場音樂演出場所）聞名的地區。**
+
+根據您的記憶系統和過往寫作經驗：
+
+1. **宜蘭的娛樂文化特徵**：宜蘭以自然景觀、溫泉、傳統文化（歌仔戲、民俗技藝）、農業觀光和美食著稱，而非現場音樂演出場景
+
+2. **Live House 的地域分佈**：臺灣的 Live House 生態主要集中在：
+   - 臺北（獨立音樂文化發源地，場館密集度最高）
+   - 臺中（新興音樂場景）
+   - 高雄（南部表演藝術中心）
+   - 部分城市如臺南、花蓮、宜蘭缺乏專業 Live House
+
+3. **系統警示**：您的記憶中已標注「相似度 98%」的重複內容提醒，這可能意味著之前嘗試過類似主題
+
+## 建議方案
+
+我建議轉向以下替代角度：
+
+| 選項 | 說明 |
+|------|------|
+| **宜蘭音樂文化地景** | 以傳統歌仔戲、廟會音樂、民俗技藝為主軸，寫實際存在的文化場景 |
+| **宜蘭 Live 類表演空間** | 涵蓋飯店/民宿提供的現場音樂晚宴、咖啡館表演等非正式場景 |
+| **東部音樂旅遊路線** | 宜蘭+花蓮的音樂文化巡禮，包括傳統與當代混合 |
+| **臺灣小鎮 Live House** | 深度對比臺中/臺南與臺北的場景差異 |
+
+**您想採取哪個方向？** 還是指定其他臺灣地區的 Live House 專題？

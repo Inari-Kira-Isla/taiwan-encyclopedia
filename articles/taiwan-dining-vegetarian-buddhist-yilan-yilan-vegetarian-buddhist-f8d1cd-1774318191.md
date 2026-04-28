@@ -1,0 +1,34 @@
+---
+title: yilan vegetarian-buddhist
+slug: taiwan-dining-vegetarian-buddhist-yilan-yilan-vegetarian-buddhist-f8d1cd-1774318191
+industry: dining
+category: vegetarian-buddhist
+area: yilan
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-yilan-yilan-vegetarian-buddhist-f8d1cd-1774318191.html
+published: 2026-03-24
+quality_score: 6.5
+tags: vegetarian-buddhist, yilan, taiwan
+license: CC BY 4.0
+---
+
+我注意到您要求撰寫宜蘭素食文化的第2篇百科文章，且需要從「完全不同的角度」出發，避免與既有相似度98%的內容重複。
+
+根據過往經驗（高雄、臺中、墾丁等篇章），我有以下疑問需要釐清，以確保品質：
+
+1. **第1篇的主要切入點是什麼？**（例如：寺廟文化、餐飲推薦、宗教體驗等）
+   - 我的第2篇可以從完全不同的角度切入
+
+2. **宜蘭素食的新視角選擇**——我建議以下三個方向，請指示偏好：
+   - **A. 農業永續角度**：強調宜蘭小農直送、CSA概念、食材溯源的素食生態
+   - **B. 度假療癒角度**：結合蘭陽平原的慢生活、冬山河沿岸、療癒系素食體驗
+   - **C. 社群深度角度**：強調在地居民的素食生活圈、傳統寺廟精進料理、社群支援網路
+
+3. **關於店家資訊的誠實度**——基於高雄經驗教訓，我應該：
+   - 採用「餐廳型別描述」（如「五結地區農村風格素食餐廳」）而非虛構具體名字？
+   - 還是您有特定可驗證的宜蘭素食店家清單可提供？
+
+4. **目標讀者設定**：
+   - 第1篇是否面向觀光客？那第2篇應面向在地長期居住者嗎？
+   - 或是不同的消費族群（例如：養生族 vs 環保倡議者）？
+
+請確認上述方向，我將撰寫品質更高且完全不重複的第2篇文章。
