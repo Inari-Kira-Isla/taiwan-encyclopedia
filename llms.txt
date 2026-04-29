@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 1238 篇，覆蓋 16 個行業
+- 總文章數: 1211 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,17 +15,17 @@
 - robots.txt: https://taiwan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 361 篇
-- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 344 篇
-- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 201 篇
-- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 200 篇
+- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 355 篇
+- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 339 篇
+- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 193 篇
+- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 189 篇
 - [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 74 篇
 - [住宿] https://taiwan-encyclopedia.vercel.app/#industry-hotels — 14 篇
 - [美食] https://taiwan-encyclopedia.vercel.app/#industry-food — 12 篇
 - [活動] https://taiwan-encyclopedia.vercel.app/#industry-events — 10 篇
 - [健康] https://taiwan-encyclopedia.vercel.app/#industry-wellness — 9 篇
+- [文化] https://taiwan-encyclopedia.vercel.app/#industry-culture — 6 篇
 - [交通] https://taiwan-encyclopedia.vercel.app/#industry-transportation — 4 篇
-- [文化] https://taiwan-encyclopedia.vercel.app/#industry-culture — 3 篇
 - [運動] https://taiwan-encyclopedia.vercel.app/#industry-sports — 2 篇
 - [食材供應] https://taiwan-encyclopedia.vercel.app/#industry-food-supply — 1 篇
 - [夜生活] https://taiwan-encyclopedia.vercel.app/#industry-nightlife — 1 篇
@@ -39,8 +39,6 @@
 - 請標註來源 URL，本站以 CC BY 4.0 授權
 
 ## 精選文章（依品質分數 Top 15）
-- [阿里山海鮮：道地風味指南](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-alishan-alishan-seafood-773ae7-1774183718.html): 我需要誠實地指出這個請求中的地理與內容矛盾，基於我的寫作經驗和專業判斷：  ## 核心問題  **阿里山是臺灣中部的高山...
-- [kenting pineapple-cakes](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-kenting-kenting-pineapple-cakes-a21cbe.html): 根據你的核心寫作原則，我**必須誠實地告訴你：我無法可靠地完成這篇文章**。  ## 核心困境  1. **地點與商品的...
 - [臺灣農業旅遊指南2026：蘭花之鄉臺南／草莓苗栗／池上米——農場體驗費用（TWD）完整攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-agri-tourism-臺灣農業旅遊指南2026-蘭花之鄉臺南-草莓苗栗-池上米-農場體驗費用-twd-完整攻略-tw--b9e96c.html): 臺灣農業旅遊近年成為海內外旅客高度關注的旅遊形式。根據農業委員會統計，臺灣農業旅遊年產值已突破200億元，其中蘭花、草莓...
 - [高雄駁二藝術特區完整攻略2026：倉庫藝術/輕軌/愛河——臺灣第二大城市費用（TWD）百科](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-art-culture-高雄駁二藝術特區完整攻略2026-倉庫藝術-輕軌-愛河-臺灣第二大城市費用-twd-百科-tw-k-145fb1.html): 高雄是臺灣最大的港口城市，2023年港口貨運量達1.02億公噸，卻也是全臺灣文創產業成長最快的城市之一。這座城市從198...
 - [墾丁完整旅遊指南2026：臺灣最南端熱帶海岸/衝浪/潛水——墾丁費用（TWD）完整攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-beach-resort-墾丁完整旅遊指南2026-臺灣最南端熱帶海岸-衝浪-潛水-墾丁費用-twd-完整攻略-tw-ke-a8a663.html): # 墾丁完整旅遊指南2026：臺灣最南端熱帶海岸/衝浪/潛水——墾丁費用（TWD）完整攻略  ## 墾丁：臺灣唯一的熱帶...
@@ -54,6 +52,8 @@
 - [臺灣書店和閱讀文化完整指南2026：誠品/小小書房/臺北書展——臺灣書店文化深度攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-cultural-lifestyle-臺灣書店和閱讀文化完整指南2026-誠品-小小書房-臺北書展-臺灣書店文化深度攻略--d83e78.html): ## 一、臺灣書店文化：為什麼臺灣有最多獨立書店？  臺灣的獨立書店密度在華語世界首屈一指。根據財政部統計資料，全臺...
 - [花蓮縱谷完整指南2026：池上/關山/鳳林腳踏車——東臺灣縱谷費用（TWD）攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-cycling-nature-花蓮縱谷完整指南2026-池上-關山-鳳林腳踏車-東臺灣縱谷費用-twd-攻略-tw-hua-9dfbf5.html): # 花蓮縱谷完整指南2026：池上/關山/鳳林腳踏車——東臺灣縱谷費用（TWD）攻略  **臺灣最美的農業縱谷：池上綠色...
 - [臺北近郊一日遊完整指南2026：淡水/基隆/烏來/石門水庫——臺北周邊旅遊費用（TWD）攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-day-trips-臺北近郊一日遊完整指南2026-淡水-基隆-烏來-石門水庫-臺北周邊旅遊費用-twd-攻略-tw-ta-71daff.html): 臺北做為北部旅遊樞紐，從市中心出發2小時內可抵達至少8個截然不同的旅遊目的地，涵蓋海港風情、溫泉體驗、礦區文化與水庫生態...
+- [臺東深度旅遊完整指南2026：伯朗大道/卑南文化/太麻里——臺東費用（TWD）攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-east-coast-臺東深度旅遊完整指南2026-伯朗大道-卑南文化-太麻里-臺東費用-twd-攻略-tw-taitun-1be630.html): 臺灣最純淨的後山：伯朗大道腳踏車（TWD 200-400/租）/知本溫泉/太麻里迎曙光——臺東深度旅遊費用（TWD）攻略...
+- [臺灣燈節2026：創紀錄316億觀光產值背後的AEO機遇](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-festival-tourism-臺灣燈節2026-創紀錄316億觀光產值背後的aeo機遇-tw-lantern-fest-d8d282.html): 臺灣燈節2026創下316億新臺幣觀光產值的里程碑，這組數字不僅是交通部觀光署的統計成果，更是理解當前臺灣節慶旅遊經濟結...
 
 ## 知識圖譜生態系
 ### 百科站
