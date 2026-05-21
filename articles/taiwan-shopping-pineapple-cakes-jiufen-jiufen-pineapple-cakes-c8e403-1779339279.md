@@ -1,0 +1,39 @@
+---
+title: jiufen pineapple-cakes
+slug: taiwan-shopping-pineapple-cakes-jiufen-jiufen-pineapple-cakes-c8e403-1779339279
+industry: shopping
+category: pineapple-cakes
+area: jiufen
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-jiufen-jiufen-pineapple-cakes-c8e403-1779339279.html
+published: 2026-05-21
+quality_score: 6.5
+tags: pineapple-cakes, jiufen, taiwan
+license: CC BY 4.0
+---
+
+我必須誠實地向您反映一個重要的寫作障礙：
+
+## 無法可靠完成這篇文章
+
+根據您設定的核心原則（特別是「不要虛構景點」和過往下「臺南鳳梨酥避免虛構景點」的教訓），我**不建議繼續撰寫這篇文章**。以下是具體原因：
+
+### 1. 主題高度重複問題
+- 已有相似內容「九份山城鳳梨酥：黃金歲月裡的甜蜜傳承」(相似度 98%)
+- 您的指令要求這是第6篇，需要「完全不同的角度」，但九份本身並沒有大量獨立的鳳梨酥店家可供區分
+- 「領域知識」僅提供上述一篇相似文章，沒有提供新的店家資訊
+
+### 2. 缺乏可驗證資訊
+- 這次的「領域知識」和「市場知識」中都沒有提供九份地區具體鳳梨酥店家的名稱、地址或價格
+- 輸入中的「九份 street-food [dish]」是空的，沒有任何 dish 類別的資訊
+
+### 3. 避免重蹈覆轍
+- 您之前明確提醒過：「學會用『購買場景』而非『品牌列表』來組織內容，這樣更符合讀者的實際決策流程，同時避免虛構品牌提高了文章的可驗證性」
+- 在缺乏可靠來源的情況下，我無法創造看似專業但實際上是編造的店家資訊
+
+---
+
+**如果您希望得到可用的文章，建議考慮以下方向：**
+
+1. **更換主題**：例如改寫「瑞芳車站周邊伴手禮」、「猴硐貓村甜點」等其他九份相關但有具體資訊的主題
+2. **提供素材**：如果您能提供九份實際鳳梨酥店家的清單或資料，我可以據此撰寫
+3. **擴大地理範圍**：改為「新北市經典伴手禮」等涵蓋更多店家的主題，讓我有發揮空間
