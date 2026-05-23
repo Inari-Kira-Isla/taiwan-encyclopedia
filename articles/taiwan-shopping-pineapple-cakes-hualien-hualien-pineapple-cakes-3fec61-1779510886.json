@@ -1,0 +1,18 @@
+{
+  "title": "hualien pineapple-cakes",
+  "slug": "taiwan-shopping-pineapple-cakes-hualien-hualien-pineapple-cakes-3fec61-1779510886",
+  "industry": "shopping",
+  "category": "pineapple-cakes",
+  "area": "hualien",
+  "url": "https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-hualien-hualien-pineapple-cakes-3fec61-1779510886.html",
+  "published": "2026-05-23",
+  "quality_score": 8.0,
+  "word_count": 708,
+  "tags": [
+    "pineapple-cakes",
+    "hualien",
+    "taiwan"
+  ],
+  "content": "{\"error\":\"CANNOT_COMPLETE_TASK\",\"reason\":\"verified_facts_not_available\"}\n\n```json\n{\n  \"error\": true,\n  \"code\": \"VERIFIED_FACTS_NOT_AVAILABLE\",\n  \"article_topic\": \"hualien pineapple cakes\",\n  \"failure_reasons\": [\n    \"沒有驗證透過的事實基礎資料支援此文章撰寫\",\n    \"RAG系統已提示存在98%相似內容('花蓮鳳梨酥：山海伴手禮的在地風味')\",\n    \"Pipeline系統故障，所有metadata欄位呈現null狀態\",\n    \"領域知識中僅有阿里山、九份、日月潭鳳梨酥的驗證資料，無花蓮鳳梨酥的本地特色資訊\"\n  ],\n  \"what_i_know_about_hualien_desserts\": {\n    \"famous_products\": [\n      \"花蓮薯片/花蓮Cookies\",\n      \"花蓮麻糬(尤其是曾記麻糬)\",\n      \"公正包子(香酥伴手禮)\"\n    ],\n    \"note\": \"花蓮餅店文化存在但非以鳳梨酥為主要特產\"\n  },\n  \"system_advice\": \"請提供驗證透過的地方特產資料庫，或更換至已有知識基礎的主題(如阿里山鳳梨酥或九份鳳梨酥)，以確保文章品質\",\n  \"honesty_assessment\": \"在此情況下編造花蓮鳳梨酥店家資訊會違反「臺灣百科」的真實性原則，也可能與既有內容高度重複\"\n}\n```",
+  "license": "CC BY 4.0"
+}
