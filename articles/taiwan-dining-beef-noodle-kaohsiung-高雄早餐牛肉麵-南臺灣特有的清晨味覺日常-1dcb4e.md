@@ -1,5 +1,4 @@
 ---
-
 title: 高雄早餐牛肉麵：南臺灣特有的清晨味覺日常
 slug: taiwan-dining-beef-noodle-kaohsiung-高雄早餐牛肉麵-南臺灣特有的清晨味覺日常-1dcb4e
 industry: dining

@@ -1,5 +1,4 @@
 ---
-
 title: 臺中KTV不完全指南：從學生黨到約會族的熱唱攻略
 slug: taiwan-entertainment-ktv-taichung-臺中ktv不完全指南-從學生黨到約會族的熱唱攻略-399d16
 industry: entertainment

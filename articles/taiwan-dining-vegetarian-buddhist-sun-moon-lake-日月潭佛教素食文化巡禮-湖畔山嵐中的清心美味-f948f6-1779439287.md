@@ -1,5 +1,4 @@
 ---
-
 title: 日月潭佛教素食文化巡禮：湖畔山嵐中的清心美味
 slug: taiwan-dining-vegetarian-buddhist-sun-moon-lake-日月潭佛教素食文化巡禮-湖畔山嵐中的清心美味-f948f6-1779439287
 industry: dining

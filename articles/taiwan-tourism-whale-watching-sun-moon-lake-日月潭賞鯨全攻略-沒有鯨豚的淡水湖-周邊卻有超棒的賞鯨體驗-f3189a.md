@@ -1,5 +1,4 @@
 ---
-
 title: 日月潭賞鯨全攻略：沒有鯨豚的淡水湖，周邊卻有超棒的賞鯨體驗
 slug: taiwan-tourism-whale-watching-sun-moon-lake-日月潭賞鯨全攻略-沒有鯨豚的淡水湖-周邊卻有超棒的賞鯨體驗-f3189a
 industry: tourism

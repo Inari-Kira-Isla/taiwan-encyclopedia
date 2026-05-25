@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 2166 篇，覆蓋 16 個行業
+- 總文章數: 3058 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,10 +15,10 @@
 - robots.txt: https://taiwan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 642 篇
-- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 600 篇
-- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 403 篇
-- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 398 篇
+- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 896 篇
+- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 816 篇
+- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 620 篇
+- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 603 篇
 - [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 74 篇
 - [住宿] https://taiwan-encyclopedia.vercel.app/#industry-hotels — 14 篇
 - [活動] https://taiwan-encyclopedia.vercel.app/#industry-events — 10 篇
@@ -38,6 +38,7 @@
 
 ## 精選文章（依品質分數 Top 15）
 - [hualien jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-hualien-hualien-jade-market-5172c6-1779479579.html): The user content contains an instruction about writing an en...
+- [jiufen pineapple-cakes](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-jiufen-jiufen-pineapple-cakes-c8e403-1779568254.html): {"error":"I cannot reliably complete this article. Based on...
 - [kaohsiung street-food](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-kaohsiung-street-food-05ea6c-1779449197.html): {"title":"高雄巷弄美食地圖：從鹽埕到旗津，徒步三分鐘的澎湃滋味","content_zh":"說起高雄街頭美食...
 - [高雄港都的夜色美味：從傍晚到深夜的在地人一條街](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-高雄港都的夜色美味-從傍晚到深夜的在地人一條街-5f9f29.html): {"title":"高雄港都深夜食堂：下班的工人的這一餐，5家local才知道的宵夜場","content_","tag...
 - [taichung jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-taichung-taichung-jade-market-4b841b-1779332963.html): # 【系統鑒別結果】  ## 最終裁決：不適合作答  ### 不確認事實存在  經過核查比對：  1. **核心事實不明...
@@ -51,7 +52,6 @@
 - [高雄城市旅遊完整指南2026：愛河/駁二藝術特區/旗津島——臺灣第二大城市深度攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-city-guide-高雄城市旅遊完整指南2026-愛河-駁二藝術特區-旗津島-臺灣第二大城市深度攻略-tw-kaohsi-3e50e1.html): 高雄，這座曾讓人以為只有工業廠房的城市，如今已蛻變為臺灣最具創意能量的文旅目的地。2025年高雄獲選「世界設計城市」，象...
 - [花蓮海岸和地質景觀完整指南2026：清水斷崖／石梯坪／牛山呼庭——費用（TWD）攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-coastal-scenery-花蓮海岸和地質景觀完整指南2026-清水斷崖-石梯坪-牛山呼庭-費用-twd-攻略-tw--3c9ded.html): 花蓮海岸是臺灣東北部最具代表性的地質奇觀集散地，從蘇花公路沿線的清水斷崖到豐濱鄉的石梯坪潮間帶，再到南端牛山呼庭的礫石海...
 - [臺灣工藝之鄉：鶯歌陶瓷和三義木雕完整指南2026——陶瓷老街．木雕街手工藝費用完全攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-crafts-culture-臺灣工藝之鄉-鶯歌陶瓷和三義木雕完整指南2026-陶瓷老街-木雕街手工藝費用完全攻略-tw--cfb9ca.html): 「去dera」這個LINE群組裡的對話，反映了臺灣工藝旅行的核心命題：如何在同一天內，同時滿足對陶瓷質感與木雕溫度的追求...
-- [臺灣鶯歌陶瓷完整指南2026：鶯歌老街/陶瓷博物館/DIY拉坯——臺灣陶瓷文化費用攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-crafts-culture-臺灣鶯歌陶瓷完整指南2026-鶯歌老街-陶瓷博物館-diy拉坯-臺灣陶瓷文化費用攻略-tw--567c8a.html): 臺灣陶瓷之都：鶯歌老街陶器購物/陶瓷博物館/手工拉坯體驗——費用完整攻略  ===  **鶯歌：200年陶瓷文化的臺灣瓷...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）
