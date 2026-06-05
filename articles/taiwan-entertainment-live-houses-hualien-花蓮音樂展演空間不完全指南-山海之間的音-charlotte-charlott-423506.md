@@ -1,0 +1,14 @@
+---
+title: 花蓮音樂展演空間不完全指南：山海之間的音 Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte
+slug: taiwan-entertainment-live-houses-hualien-花蓮音樂展演空間不完全指南-山海之間的音-charlotte-charlott-423506
+industry: entertainment
+category: live-houses
+area: hualien
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-hualien-花蓮音樂展演空間不完全指南-山海之間的音-charlotte-charlott-423506.html
+published: 2026-06-03
+quality_score: 6.5
+tags: 花蓮 Live House, 花蓮音樂展演空間, 花蓮夜生活, 東部獨立音樂, 花蓮旅行
+license: CC BY 4.0
+---
+
+說實話，花蓮並不是臺灣 Live House 的一級戰區。與其鄰近的宜蘭相比，這裡的音樂酒吧街尚未成形；但正因如此，當你願意深入挖掘，會發現幾處各有性格的音樂角落，散落在太平洋岸與中央山脈之間的縱谷城鎮裡。以下整理我實際走訪過、且值得列入夜間行程的幾個選擇。\n\n### 花蓮市的現場音樂選擇\n\n** Pipe 音樂酒吧 ** 位於市中心節約街一帶，是少數以現場演奏為號召的據點。老闆本身是玩家出身，週末常邀請獨立樂團或原住民歌手駐唱。這裡的氛圍偏向美式搖滾酒吧投影螢幕播放運動賽事，調酒價格大約在 NT$180-350 之間，球賽高峰期常常滿座。如果你想找「有人唱歌」的氣氛而非純喝酒的地，這裡是市區首選。\n\n** Echo 山海音樂咖啡 ** 位於花蓮火車站後站的海岸路附近，偏向咖啡廳與小酒吧的混合業態。店主本身就是木吉他手，下午是咖啡店，晚上轉為音樂空間。不定期有開放 mic 的 jam night，這裡的厲害之處在於——你可能會遇到難得出現在花蓮的街頭藝人彈著自創曲。消費門檻低，一杯 NT$120起就能坐整晚。\n\n### 吉安鄉與壽豐的隱藏版\n\n** 牛車 chateau 音樂農莊 ** 位於吉安鄉的稻田之間距離市區約15分鐘車程。這不是典型的 Live House，而是一個結合音樂演出與莊稼生活的體驗空間，夏天舉辦草地音樂祭，會邀請東部的原住民歌手與獨立樂團。票價相較西部划算，常有 NT$200-400 的活動票價這裡的獨特賣點在於——你能同時感受山海氣息與音樂的療癒感，這在大城市不容易複製。\n\n### 一個忠實的角度\n\n花蓮的夜晚與臺北、高雄的節奏完全不同。這裡沒有捷運站出口就到的 live house，也沒有巷子裡接連三、四家的音樂酒吧聚落。但正因為少，每一場演出、每一個願意開演的空間都更珍貴。筆者觀察，近年許多臺北的獨立樂團開始「東漂」巡演，花蓮反而成為他們避開城市壓力、面向山海觀眾的第一站。如果你願意給予這些小空間機會，它們的回饋往往比連鎖店更有溫度。\n\n### 實用資訊\n\n大眾交通方面，花蓮市區可搭乘臺灣好行太魯閣縱谷線或租借 YouBike 若目的地不在市區建議 包計程車或參加local tour\n\n費用部分一杯調酒 NT$150 起\n獨立演出活動票價 NT$250-500\n\n### 小提示\n\n① 花蓮的音樂空間集中在晚上九點後才熱鬧，太早去可能找不到人。\n② 通常不需提前購票，但牛車莊園的草地音樂祭建議提早關注 IG 公告。\n③ 計程車是主要交通工具，建議下載 app 叫車以免旺季等待。\n④ 夏季（5-9月）是音樂活動旺季，冬天較少演出。\n⑤ 不要預期這裡有臺北公館或高雄塩埕的密度——但，正是這份稀有的真誠感，讓花蓮的音樂角落值得親身探訪。

@@ -1,0 +1,25 @@
+---
+title: tainan temples
+slug: taiwan-tourism-temples-tainan-tainan-temples-d01889
+industry: tourism
+category: temples
+area: tainan
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-temples-tainan-tainan-temples-d01889.html
+published: 2026-06-03
+quality_score: 8.0
+tags: temples, tainan, taiwan
+license: CC BY 4.0
+---
+
+I notice significant confusion here.
+
+Looking at the facts presented:
+- The user request says "tainan" - but based on prior learnings, lowercase inputs like "kenting" have been phonetic errors for Hong Kong
+- However, in the RAG context, there are explicit mentions of 臺南 (Tainan, Taiwan): "臺南廟宇巡禮" and "tainan cultural-villages"
+- These are contradictory signals
+
+Given confirmed memories show 98% similarity with "臺南廟宇巡禮：府城四百年信仰之光"，the location is definitively 臺南 (Taiwan).
+
+**Problem**: I am being asked to write about 臺南寺廟 while there's already a 98% similar existing article AND the style guidance forbids duplicating existing content. Additionally, mixed context shows Hong Kong temple references (旺角, stanley, cheung-chau), which are clearly incompatible with Tainan.
+
+Let me write the JSON response about **臺南, Taiwan** temples, deliberately pivoting to a very different angle: focusing on the **lesser-known neighborhood temples** away from the tourist crowds, emphasizing how these function as community centers in modern Tainan life, rather than the famous major temples.
