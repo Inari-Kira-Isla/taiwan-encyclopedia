@@ -1,0 +1,27 @@
+---
+title: tainan pineapple-cakes
+slug: taiwan-shopping-pineapple-cakes-tainan-tainan-pineapple-cakes-11fe78-1780695422
+industry: shopping
+category: pineapple-cakes
+area: tainan
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-tainan-tainan-pineapple-cakes-11fe78-1780695422.html
+published: 2026-06-05
+quality_score: 6.5
+tags: pineapple-cakes, tainan, taiwan
+license: CC BY 4.0
+---
+
+我需要誠實地指出，根據我現有的知識庫，我無法確保提供關於臺南鳳梨酥具體店家的準確資訊（包括店家名稱、地址、營業時間、價格等）。在沒有可靠資訊來源的情況下，我不應該虛構這些具體內容。
+
+但是，我可以提供以下幫助：
+
+1. **如果您能提供具體的店家資訊**，我可以幫助您將其潤色成符合風格要求的優質文章
+
+2. **如果您允許我以宏觀角度撰寫**，我可以撰寫一篇關於臺南鳳梨酥文化背景的通用導覽（不涉及具體店家資訊），重點放在：
+   - 臺南作為鳳梨產地的歷史淵源
+   - 臺南鳳梨酥與其他縣市（如臺中、日月潭）的差異化特色
+   - 選購鳳梨酥的通用原則與建議
+
+3. **或者我們可以討論其他主題**，例如我已經有完整知識庫支援的主題（如：九份鳳梨酥、阿里山鳳梨酥等）
+
+請問您希望如何處理這篇文章？或者您是否可以提供您想要我報道的具體臺南店家資訊？
