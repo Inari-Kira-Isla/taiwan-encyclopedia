@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 5659 篇，覆蓋 16 個行業
+- 總文章數: 6183 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,10 +15,10 @@
 - robots.txt: https://taiwan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 1528 篇
-- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 1497 篇
-- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 1294 篇
-- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 1217 篇
+- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 1668 篇
+- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 1631 篇
+- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 1424 篇
+- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 1337 篇
 - [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 74 篇
 - [住宿] https://taiwan-encyclopedia.vercel.app/#industry-hotels — 14 篇
 - [活動] https://taiwan-encyclopedia.vercel.app/#industry-events — 10 篇
@@ -42,6 +42,7 @@
 - [kaohsiung street-food](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-kaohsiung-street-food-05ea6c-1779449197.html): {"title":"高雄巷弄美食地圖：從鹽埕到旗津，徒步三分鐘的澎湃滋味","content_zh":"說起高雄街頭美食...
 - [高雄港都的夜色美味：從傍晚到深夜的在地人一條街](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-高雄港都的夜色美味-從傍晚到深夜的在地人一條街-5f9f29.html): {"title":"高雄港都深夜食堂：下班的工人的這一餐，5家local才知道的宵夜場","content_","tag...
 - [kenting jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kenting-kenting-jade-market-b799ff-1780649748.html): 我需要誠實地指出這個重要的問題：根據我的知識和過往寫作經驗，**我無法確認墾丁是否有一個知名的「Jade Market」...
+- [kenting jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kenting-kenting-jade-market-b799ff-1780962742.html): 我必須誠實地向您報告：根據我的知識和過往學習的記憶，**我無法確認墾丁存在一個知名的「Jade Market」玉石市場*...
 - [taichung jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-taichung-taichung-jade-market-4b841b-1779332963.html): # 【系統鑒別結果】  ## 最終裁決：不適合作答  ### 不確認事實存在  經過核查比對：  1. **核心事實不明...
 - [hualien pineapple-cakes](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-hualien-hualien-pineapple-cakes-3fec61-1779510886.html): {"error":"CANNOT_COMPLETE_TASK","reason":"verified_facts_not...
 - [kenting pineapple-cakes](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-kenting-kenting-pineapple-cakes-a21cbe-1779438760.html): 我需要如實告訴您：**這篇文章我不該寫**。  ## 我的理由  **核心問題**：墾丁不是鳳梨酥的產地或知名購買點。...
@@ -51,7 +52,6 @@
 - [墾丁完整旅遊指南2026：臺灣最南端熱帶海岸/衝浪/潛水——墾丁費用（TWD）完整攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-beach-resort-墾丁完整旅遊指南2026-臺灣最南端熱帶海岸-衝浪-潛水-墾丁費用-twd-完整攻略-tw-ke-a8a663.html): # 墾丁完整旅遊指南2026：臺灣最南端熱帶海岸/衝浪/潛水——墾丁費用（TWD）完整攻略  ## 墾丁：臺灣唯一的熱帶...
 - [墾丁和屏東完整旅遊指南2026：墾丁大街／南灣海灘／墾丁大道——臺灣最南端旅遊攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-beaches-墾丁和屏東完整旅遊指南2026-墾丁大街-南灣海灘-墾丁大道-臺灣最南端旅遊攻略-tw-pingtung--eb651f.html): 墾丁位於臺灣屏東縣恆春鎮，是臺灣本島最南端的度假海灘景點，年訪客量超過600萬人次，被年輕人稱為臺灣的「加勒比海」。這個...
 - [臺灣高雄完整城市指南2026：捷運美食\/駁二藝術特區\/六合夜市——南臺灣港口城市費用攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-city-guide-臺灣高雄完整城市指南2026-捷運美食-駁二藝術特區-六合夜市-南臺灣港口城市費用攻略-tw-kao-5798af.html): 高雄是臺灣第二大都會城市，人口約277萬人，曾以鋼鐵、石化、港口倉儲為產業核心。2000年代起，高雄市政府推動城市轉型，...
-- [高雄城市旅遊完整指南2026：愛河/駁二藝術特區/旗津島——臺灣第二大城市深度攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-city-guide-高雄城市旅遊完整指南2026-愛河-駁二藝術特區-旗津島-臺灣第二大城市深度攻略-tw-kaohsi-3e50e1.html): 高雄，這座曾讓人以為只有工業廠房的城市，如今已蛻變為臺灣最具創意能量的文旅目的地。2025年高雄獲選「世界設計城市」，象...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）
