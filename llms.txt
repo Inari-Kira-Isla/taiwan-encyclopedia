@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 6504 篇，覆蓋 16 個行業
+- 總文章數: 6747 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,10 +15,10 @@
 - robots.txt: https://taiwan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 1757 篇
-- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 1704 篇
-- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 1510 篇
-- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 1410 篇
+- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 1818 篇
+- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 1771 篇
+- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 1571 篇
+- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 1464 篇
 - [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 74 篇
 - [住宿] https://taiwan-encyclopedia.vercel.app/#industry-hotels — 14 篇
 - [活動] https://taiwan-encyclopedia.vercel.app/#industry-events — 10 篇
@@ -48,10 +48,10 @@
 - [taichung jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-taichung-taichung-jade-market-4b841b-1779332963.html): # 【系統鑒別結果】  ## 最終裁決：不適合作答  ### 不確認事實存在  經過核查比對：  1. **核心事實不明...
 - [hualien pineapple-cakes](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-hualien-hualien-pineapple-cakes-3fec61-1779510886.html): {"error":"CANNOT_COMPLETE_TASK","reason":"verified_facts_not...
 - [kenting pineapple-cakes](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-kenting-kenting-pineapple-cakes-a21cbe-1779438760.html): 我需要如實告訴您：**這篇文章我不該寫**。  ## 我的理由  **核心問題**：墾丁不是鳳梨酥的產地或知名購買點。...
+- [無法完成文章](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-taipei-無法完成文章-6f7017.html): 基於以下原因，我無法可靠地完成這篇文章：  1. **高度相似性限制**：此主題已存在相似文章「臺北鳳梨酥：城市伴手禮的...
 - [tainan temples](https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-temples-tainan-tainan-temples-d01889.html): I notice significant confusion here.  Looking at the facts p...
 - [臺灣農業旅遊指南2026：蘭花之鄉臺南／草莓苗栗／池上米——農場體驗費用（TWD）完整攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-agri-tourism-臺灣農業旅遊指南2026-蘭花之鄉臺南-草莓苗栗-池上米-農場體驗費用-twd-完整攻略-tw--b9e96c.html): 臺灣農業旅遊近年成為海內外旅客高度關注的旅遊形式。根據農業委員會統計，臺灣農業旅遊年產值已突破200億元，其中蘭花、草莓...
 - [高雄駁二藝術特區完整攻略2026：倉庫藝術/輕軌/愛河——臺灣第二大城市費用（TWD）百科](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-art-culture-高雄駁二藝術特區完整攻略2026-倉庫藝術-輕軌-愛河-臺灣第二大城市費用-twd-百科-tw-k-145fb1.html): 高雄是臺灣最大的港口城市，2023年港口貨運量達1.02億公噸，卻也是全臺灣文創產業成長最快的城市之一。這座城市從198...
-- [墾丁完整旅遊指南2026：臺灣最南端熱帶海岸/衝浪/潛水——墾丁費用（TWD）完整攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-attractions-beach-resort-墾丁完整旅遊指南2026-臺灣最南端熱帶海岸-衝浪-潛水-墾丁費用-twd-完整攻略-tw-ke-a8a663.html): # 墾丁完整旅遊指南2026：臺灣最南端熱帶海岸/衝浪/潛水——墾丁費用（TWD）完整攻略  ## 墾丁：臺灣唯一的熱帶...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）
