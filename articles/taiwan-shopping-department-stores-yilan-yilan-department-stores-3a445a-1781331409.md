@@ -1,0 +1,28 @@
+---
+title: yilan department-stores
+slug: taiwan-shopping-department-stores-yilan-yilan-department-stores-3a445a-1781331409
+industry: shopping
+category: department-stores
+area: yilan
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-yilan-yilan-department-stores-3a445a-1781331409.html
+published: 2026-06-13
+quality_score: 6.5
+tags: department-stores, yilan, taiwan
+license: CC BY 4.0
+---
+
+根據我的專業判斷和知識邊界，我必須誠實地向您說明：
+
+**我對宜蘭的具體百貨公司營運狀況缺乏準確、完整的資訊。** 宜蘭是一個以農業和觀光為主的縣份，其主要商業形態與臺北、高雄等都會區不同，我無法確認目前宜蘭境內是否有大型百貨公司或具體商場的正確名稱、地址和營業時間。
+
+基於「不要推薦已停業的店家」和「確保資訊準確」的專業禁忌，我無法在缺乏可靠資料的情況下撰寫這篇文章。
+
+**建議選項：**
+
+1. **提供宜蘭最新百貨公司資訊**：如果您有2024-2025年宜蘭最新商場資料（如新商場名稱、地址、營業時間），我可以據此撰寫
+
+2. **調整文章主題**：改為撰寫「宜蘭購物指南」之類的更廣泛主題，納入超市、傳統市場、觀光工廠等多元購物場域
+
+3. **使用其他縣市**：如臺中、高雄等我有較多確定資訊的地區
+
+請問您希望如何處理？或者可以提供宜蘭當地的具體商場資料供我參考？
