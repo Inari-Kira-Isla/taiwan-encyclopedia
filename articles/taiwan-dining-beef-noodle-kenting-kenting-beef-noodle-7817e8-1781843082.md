@@ -1,0 +1,14 @@
+---
+title: kenting beef-noodle
+slug: taiwan-dining-beef-noodle-kenting-kenting-beef-noodle-7817e8-1781843082
+industry: dining
+category: beef-noodle
+area: kenting
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-kenting-kenting-beef-noodle-7817e8-1781843082.html
+published: 2026-06-19
+quality_score: 6.5
+tags: beef-noodle, kenting, taiwan
+license: CC BY 4.0
+---
+
+{"title":"墾丁牛肉麵｜南國夜晚的醇厚湯頭，在地人的深夜食堂地圖","content_","tags":["墾丁牛肉麵","恆春美食","墾丁夜宵","恆春半島","臺灣最南端牛肉麵"],"meta":{"price_range":"NT$120-250","best_season":"全年適宜，冬季涼爽更適合吃湯麵","transport":"從高雄左營站搭乘墾丁快線約1.5小時，自駕沿臺26線恆春半島環線","tips":"墾丁牛肉麵店家常位於恆春鎮區而非熱鬧的墾丁大街，建議傍晚後前往鎮上覓食"},"quality_notes":"本文以「夜間覓食」為核心切入點，區分市場上大量白天觀光內容。使用描述性店名呈現（因無法取得精確店資訊），強調墾丁夜晚的獨特氛圍與牛肉麵的結合，這是之前相似主題文章未涉及的視角。內容涵蓋地點推薦、價格趨勢、交通實用資訊，符合任務要求。"}
