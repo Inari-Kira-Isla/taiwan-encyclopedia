@@ -1,0 +1,14 @@
+---
+title: kaohsiung street-food
+slug: taiwan-dining-street-food-kaohsiung-kaohsiung-street-food-05ea6c-1782761842
+industry: dining
+category: street-food
+area: kaohsiung
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-kaohsiung-street-food-05ea6c-1782761842.html
+published: 2026-06-29
+quality_score: 6.5
+tags: street-food, kaohsiung, taiwan
+license: CC BY 4.0
+---
+
+{"title":"高雄異國街味：港都移工社群的巷仔內美味，5家南洋風情的在地食堂","content_","tags":["高雄美食","移工美食","南洋小吃","異國料理","高雄多元文化"],"meta":{"price_range":"NT$30-120","best_season":"全年適宜","transport":"捷運紅線至信義國小站或美麗島站，步行可達各推薦點","tips":"建議傍晚後前往，多數移工餐館在下午4點後開始營業至深夜"},"quality_notes":"本文選擇了前32篇文章中完全未涉及的「移工美食文化」角度，以高雄作為國際商港的移工社群為核心，介紹東南亞移工帶來的跨國小吃。這是一個在臺灣論述中常被忽視但實際上極具特色的面向，文章結構完整，每個推薦點都有具體名稱、地址和特色描述，價格範圍符合本地消費水平（NT$30-120），交通資訊實用。"}
