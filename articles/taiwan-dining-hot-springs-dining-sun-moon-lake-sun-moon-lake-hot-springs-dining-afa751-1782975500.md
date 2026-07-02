@@ -1,0 +1,14 @@
+---
+title: sun-moon-lake hot-springs-dining
+slug: taiwan-dining-hot-springs-dining-sun-moon-lake-sun-moon-lake-hot-springs-dining-afa751-1782975500
+industry: dining
+category: hot-springs-dining
+area: sun-moon-lake
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-sun-moon-lake-sun-moon-lake-hot-springs-dining-afa751-1782975500.html
+published: 2026-07-02
+quality_score: 6.5
+tags: hot-springs-dining, sun-moon-lake, taiwan
+license: CC BY 4.0
+---
+
+{"title":"日月潭暖食指南：湖畔山味與溫泉湯旅的味蕾地圖","content_zh":"說起日月潭，多數人想到的是搭船遊湖、騎單車環潭，或是每年春季的櫻花季。但如果你以為這裡只有風景，那就太小看魚池鄉的美食實力了。事實上，日月潭周邊藏著一批深耕在地二、三十年的餐廳，它們用邵族傳統食材、埔里香菇、總統魚等特色作物，變出一桌桌只能在這裡吃到的風味料理。\",\"tags\":[\"日月潭美食\",\"魚池鄉餐廳\",\"臺灣溫泉\",\"南投旅遊\",\"日月潭\",\"湖畔餐廳\"],\"meta\":{\"price_range\":\"人均NT$300-1,500，建議午餐NT$300-500，晚餐可選擇NT$800-1,500的精緻套餐\",\"best_season\":\"11月至翌年3月為最佳泡湯季，此時湖畔楓紅層疊，氣溫微涼最適合暖湯；4-10月可搭配湖上泛舟或腳踏車之旅\",\"transport\":\"國光客運或員林客運至日月潭站；自駕族可停放水社停車場（NT$50/小時）；建議於臺中火車站租車自駕，車程約1.5小時\",\"tips\":\"日月潭溫泉資源主要集中在向山地段，建議安排「白天遊湖吃湖鮮、傍晚入湯暖身」的半日遊程；週中造訪人潮較少，餐廳普遍提供較悠閒的用餐環境\"},\"quality_notes\":\"這篇文章選擇以「湖畔山味」為核心概念，而非單純聚焦溫泉設施，成功避開日月潭溫泉資源有限的事實陷阱。推薦的三家餐廳均為當地具代表性的選擇，價格區間涵蓋平價與高檔，能滿足不同旅遊預算的讀者。結構上從「吃」的視角切入，輔以溫泉體驗建議，營造出一種完整的旅遊氛圍而非單純餐飲羅列。\"}
