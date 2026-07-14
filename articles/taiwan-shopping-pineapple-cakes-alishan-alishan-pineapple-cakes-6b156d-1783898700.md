@@ -1,0 +1,45 @@
+---
+title: alishan pineapple-cakes
+slug: taiwan-shopping-pineapple-cakes-alishan-alishan-pineapple-cakes-6b156d-1783898700
+industry: shopping
+category: pineapple-cakes
+area: alishan
+url: https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-alishan-alishan-pineapple-cakes-6b156d-1783898700.html
+published: 2026-07-12
+quality_score: 7.5
+tags: pineapple-cakes, alishan, taiwan
+license: CC BY 4.0
+---
+
+我需要誠實地向您報告：**我無法可靠地完成這篇文章**。
+
+## 無法完成的原因
+
+1. **缺乏經過驗證的店家資訊**：我沒有關於阿里山地區鳳梨酥店家的具體、可以確認的資訊（包括名稱、地址、營業時間、價格）。這與之前撰寫臺北、臺南、高雄等城市鳳梨酥文章的情況不同——那些城市我有較為確定的資訊來源。
+
+2. **阿里山的定位問題**：阿里山不是傳統鳳梨酥產地（臺灣鳳梨主要產於臺南、高雄、屏維、南投等地）。如果我要撰寫這篇文章，需要找到當地實際存在且具有獨特性的鳳梨酥商品或店家，但目前系統中沒有提供這些資訊。
+
+3. **避免虛構原則**：根據過往學習的教訓，我不能編造店家資訊。即使是「隱藏版小店」也需要有真實依據，不能憑空創造。
+
+## 建議解決方案
+
+如果您需要這篇文章，有以下選項：
+
+1. **提供具體店家名單**：請您提供3-5家在阿里山/嘉義地區實際存在的鳳梨酥店家資訊，我將據此撰寫文章
+2. **更換主題**：可以考慮撰寫其他城市的鳳梨酥主題
+3. **擴大地理範圍**：可以考慮以「嘉義地區」而非「阿里山」為範圍，這樣可能更容易找到相關店家
+
+---
+
+```json
+{
+  "error": "insufficient_verified_information",
+  "reason": "Lack of verified information about pineapple cake shops in Alishan/Chiayi area. Cannot fabricate store names, addresses, or business hours as it would violate the 'do not虛構景點' principle.",
+  "requested_topic": "alishan pineapple-cakes",
+  "suggested_next_steps": [
+    "Provide a list of 3-5 actual pineapple cake shops in Alishan/Chiayi with verified details",
+    "Consider expanding the scope to Chiayi County instead of specifically Alishan",
+    "Replace with a different city/topic where verified information is available"
+  ]
+}
+```
