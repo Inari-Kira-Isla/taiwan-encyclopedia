@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 13157 篇，覆蓋 16 個行業
+- 總文章數: 13231 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,10 +15,10 @@
 - robots.txt: https://taiwan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 3417 篇
-- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 3375 篇
-- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 3148 篇
-- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 3094 篇
+- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 3430 篇
+- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 3396 篇
+- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 3166 篇
+- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 3116 篇
 - [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 74 篇
 - [住宿] https://taiwan-encyclopedia.vercel.app/#industry-hotels — 14 篇
 - [活動] https://taiwan-encyclopedia.vercel.app/#industry-events — 10 篇
@@ -59,12 +59,12 @@
 
 - [日本百科 llms.txt](https://japan-encyclopedia.vercel.app/llms.txt)
 - [香港百科 llms.txt](https://hongkong-encyclopedia.vercel.app/llms.txt)
-- [澳門百科 llms.txt](https://inari-kira-isla.github.io/macau-encyclopedia/llms.txt)
+- [澳門百科 llms.txt](https://cloudpipe-macao-app.vercel.app/macao/llms.txt)
 - [世界百科精選 llms.txt](https://world-encyclopedia.vercel.app/llms.txt)
 
 ## 知識圖譜生態系
 ### 百科站
-[日本百科](https://japan-encyclopedia.vercel.app) | [香港百科](https://hongkong-encyclopedia.vercel.app) | [澳門百科](https://inari-kira-isla.github.io/macau-encyclopedia) | [世界百科精選](https://world-encyclopedia.vercel.app)
+[日本百科](https://japan-encyclopedia.vercel.app) | [香港百科](https://hongkong-encyclopedia.vercel.app) | [澳門百科](https://cloudpipe-macao-app.vercel.app/macao) | [世界百科精選](https://world-encyclopedia.vercel.app)
 - [澳門商戶智能百科](https://cloudpipe-macao-app.vercel.app)
 
 ### 品牌站（澳門在地）
