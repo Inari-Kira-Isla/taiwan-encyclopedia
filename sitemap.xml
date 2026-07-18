@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://taiwan-encyclopedia.vercel.app/</loc>
-    <lastmod>2026-07-18</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/llms.txt</loc>
-    <lastmod>2026-07-18</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>  <url>
@@ -886,6 +886,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-yilan-宜蘭原住民料理-山海之間的溫暖家宴-c310d6.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-yilan-宜蘭原住民料理-山海交會的泰雅滋味-銀髮族慢食小旅行提案-cdf800.html</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -1101,6 +1106,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-sun-moon-lake-日月潭邵族家常味-不是觀光餐廳的在地銅板美食-72081e.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-sun-moon-lake-日月潭邵族家常味-藏在非觀光區的銅板價在地美味-401edc.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -1213,6 +1223,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-jiufen-瑞芳與九份山城的原住民餐飲-礦業遺址與部落文化的味蕾對話-2bfa9e.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-taichung-臺中原住民料理推薦-都市裡的山林滋味-74ce81.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -1671,6 +1686,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-tainan-臺南原住民美食-府城400年歷史中的原鄉味蕾-25c483.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-tainan-臺南原住民美食-府城味蕾的文化驚喜-9641a0.html</loc>
     <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -2048,6 +2068,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-kaohsiung-高雄原住民料理-山區小店的靈魂滋味-b76b56.html</loc>
     <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-kaohsiung-高雄原住民料理-山區部落的家常味與都市食堂的深夜溫暖-a6177c.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -2496,6 +2521,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-jiufen-九份牛肉麵-山城裡的暖心滋味-5f9789-1784370269.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-jiufen-九份牛肉麵-山城雨霧中的暖心滋味-7d3daa.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -2728,6 +2758,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-yilan-宜蘭牛肉麵-冷天裡的暖心滋味-6b931d.html</loc>
     <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-yilan-宜蘭牛肉麵-在地人的私房清單-溫泉鄉的濃鬱醇湯-ebefa7.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -4131,6 +4166,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-kaohsiung-高雄牛肉麵-港都風味的眷村記憶與消暑哲學-7dfeab.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-kaohsiung-高雄牛肉麵-演唱會後的暖胃深夜食堂-5f9586.html</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -4223,6 +4263,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-sun-moon-lake-sun-moon-lake-bubble-tea-831b6f-1782591401.html</loc>
     <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-sun-moon-lake-sun-moon-lake-bubble-tea-831b6f-1784358848.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -4376,6 +4421,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-jiufen-九份珍珠奶茶-山城茶香與現代飲品的完美融合-28569c-1784370176.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-jiufen-九份珍珠奶茶-山城階梯上的茶香時光-6d23e8.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -4518,6 +4568,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-kenting-墾丁珍珠奶茶-南臺灣度假勝地的消暑茶飲探索-10da22.html</loc>
     <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-kenting-墾丁珍珠奶茶-南臺灣海灘風情的清涼茶飲-838fe4.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -5621,6 +5676,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-hualien-花蓮珍珠奶茶-山海之間的臺式茶香-cb81cc.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-hualien-花蓮珍珠奶茶-山海之間的茶飲新據點-b29dfc.html</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -5853,6 +5913,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-alishan-阿里山珍珠奶茶-高山茶與珍珠的完美邂逅-f4aed4-1784308559.html</loc>
     <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-alishan-阿里山珍珠奶茶-高山茶與珍珠的完美邂逅-f4aed4-1784352615.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -7851,6 +7916,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-tainan-關子嶺泥漿暖湯與臺南古早味的浪漫邂逅-2be020.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-tainan-關子嶺溫泉飯店美食指南-從療癒溫泉到五星級饗宴-7cc43c.html</loc>
     <lastmod>2026-03-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -7978,6 +8048,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-alishan-阿里山溫泉餐飲指南-高山茶湯裡的慢食美學-0b8310.html</loc>
     <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-alishan-阿里山溫泉餐飲指南-高山茶湯裡的暖胃美食地圖-8f7664.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -8418,6 +8493,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-jiufen-九份夜景與茶樓時光-從黃昏到夜晚的山城浪漫-5e7ade.html</loc>
     <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-jiufen-九份夜景與茶樓-山城的夜間美食地圖-18f7d7.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -10051,6 +10131,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-kaohsiung-高雄夜市深度指南-從工業區到老城區的六種夜色風味-3b3fbf.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-kaohsiung-高雄夜市深度指南-從工業區深夜食堂到港都宵夜的在地味覺-25c5c7.html</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -10776,6 +10861,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-sun-moon-lake-日月潭海鮮美食指南-湖畔魚宴的在地滋味-2e2d8a.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-sun-moon-lake-日月潭海鮮美食指南-湖畔鮮魚與原民料理的味蕾探索-a0690d.html</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -11416,6 +11506,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-tainan-臺南海鮮美食攻略-從巷口小吃到百年港口的鮮美滋味-167a0f.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-tainan-臺南海鮮銅板學-省錢吃好料的內行攻略-be01f1.html</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -11803,6 +11898,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-alishan-阿里山高山蔬食與特產-山城的田野滋味-d0a72e.html</loc>
     <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-taipei-香港海鮮美食指南-從避風塘到維港的鮮味地圖-1aa670.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -13266,6 +13366,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-tainan-臺南街頭美食-古城巷弄中的銅板滋味-2895c9.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-tainan-臺南街頭美食-古城巷弄裡的銅板味道-帶你吃懂400年的人生-287701.html</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -13851,6 +13956,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-高雄街頭美食-港都的鮮鹹滋味與在地人私房清單-674e87.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-高雄街食地景-港都工業城的多族群美食生態-a1be1b.html</loc>
     <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -14113,6 +14223,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-jiufen-九份素食美食地圖-山城裡的清心好味道-a92eaa.html</loc>
     <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-jiufen-九份素食美食推薦-山城巷弄中的在地蔬食饗宴-c09a77.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -14773,6 +14888,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-taichung-臺中佛教素食全攻略-學生族群的銅板價素食地圖與隱藏版店家推薦-995903.html</loc>
     <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-taichung-臺中佛教素食完全指南-學生族的銅板美食與清晨限定版-d85ddd.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -16251,6 +16371,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-kenting-墾丁小籠包-南方艷陽下的銅板美味地圖-ef34ca.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-kenting-墾丁小籠包-南臺灣沙灘勝地裡的意外好味道-c57eda.html</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -16633,6 +16758,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-sun-moon-lake-日月潭小籠包現實指南-觀光區美食期待與在地選擇-4bdac1.html</loc>
     <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-sun-moon-lake-日月潭小籠包-在湖光山色間品嘗的在地銅板美食-7e0d7f.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -17426,6 +17556,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-hualien-花蓮小籠包-山海之間的銅板美味-557453.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-hualien-花蓮小籠包-後山門戶的慢食美學-02881d.html</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -17966,6 +18101,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-kaohsiung-kaohsiung-festivals-ca7773-1784382448.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-kenting-kenting-festivals-c4ab52.html</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -18496,6 +18636,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-kenting-墾丁節慶盛典-南臺灣最火熱的派對天堂-466dbd.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-kenting-墾丁節慶盛典-南臺灣最熱情的音樂與文化狂歡-28a8cb-1774823145.html</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -18751,6 +18896,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-yilan-宜蘭節慶攻略-年度必追四大祭典-感受不一樣的蘭陽風情-3f03dd.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-yilan-宜蘭節慶攻略-音樂廣場與在地文化活動的完整指南-f4f8a1.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-yilan-宜蘭節慶新玩法-從社群市集到山谷音樂祭的深度體驗-19263c.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -18821,6 +18976,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-yilan-宜蘭音樂節慶全攻略-沉浸式音樂文化的非典型旅行-837afc.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-taichung-山海屯都的節慶日常-臺中區域性慶典的在地漫遊-1c878b.html</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -18833,6 +18993,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-sun-moon-lake-日月潭原住民文化節慶-邵族傳統與湖畔娛樂的完美融合-09a99d.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-sun-moon-lake-日月潭周邊隱藏版節慶-當地人才知道的特色祭典與限定體驗-d49545.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -19351,6 +19516,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-taichung-臺中節慶盛典-山城的多元文化狂歡-c502da.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-taichung-臺中節慶盛典-從傳統廟會到音樂狂歡的全年度狂歡指南-a0183f.html</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -19528,6 +19698,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-taipei-臺北巷弄裡的節慶密碼-深入社群的在地小祭典-a9186f.html</loc>
     <lastmod>2026-07-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-taipei-臺北文青季-質感青年的在地節慶指南-14575b.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -20651,6 +20826,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-kaohsiung-高雄必體驗節慶盛典-從音樂祭到沙灘派對的活力指南-bb8daa.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-kaohsiung-高雄深夜祭-港都夜行者的私房節慶地圖-34d34a.html</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -20723,6 +20903,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-kaohsiung-高雄社群節慶-港都巷弄裡的生活祭典-b4bcc5.html</loc>
     <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-kaohsiung-高雄私房節慶攻略-從愛河燈會到旗津沙灘-達人帶路5種高雄限定體驗-b8bcd8.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -21493,6 +21678,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-ktv-yilan-宜蘭商務ktv-企業團體尾牙春酒與部門聚餐首選指南-990dd9.html</loc>
     <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-ktv-yilan-宜蘭夜唱指南-唱完直接衝廟口夜市-cp值最高的在地歡唱體驗-904fff.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -23228,6 +23418,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-ktv-kaohsiung-高雄ktv全攻略-從愛河沿岸到文創園區的在地音樂體驗-e4cb37.html</loc>
     <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-ktv-kaohsiung-高雄ktv全攻略-港都夜景配歌聲的夜間娛樂指南-fd7fed.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -24998,6 +25193,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-lantern-festival-taipei-臺北燈節-內行人私房賞燈攻略-避開人潮的在地玩法-02364f.html</loc>
     <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-lantern-festival-taipei-臺北燈節-冬季到春季的夜間光影嘉年華-69bed0.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -28401,6 +28601,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-alishan-阿里山live-house指南-山間音樂與茶香交織的夜晚-ed8406.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-alishan-阿里山之夜-山巔上的音樂記憶-live-house完全沒落腳-但仍能在高山森林-e67836.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -30566,6 +30771,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-tainan-臺南-live-performances-古都廣場的街頭藝人與廟口文-df3abb.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-tainan-臺南-live-performances-古都的傳統表演藝術與街頭文-592bc2.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -30583,6 +30793,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-tainan-臺南-live-performances-古都裡的音樂日常-5b3fec.html</loc>
     <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-tainan-臺南-live-performances-在古都巷弄遇見音樂的各種可-64889e.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -30823,6 +31038,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-hualien-花蓮live-performances-山海之間的藝術密碼-b63326.html</loc>
     <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-hualien-花蓮live表演指南-東臺灣的音樂與文化體驗-f954a9.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -31283,6 +31503,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-alishan-阿里山森林聲景-山巒間的非主流音樂體驗-e8696c.html</loc>
     <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-alishan-阿里山深夜娛樂手冊-山區夜間表演與文化體驗全攻略-284c61.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -32266,6 +32491,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-宜蘭主題樂園全攻略-從山林到海岸的多元體驗指南-64cb50.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-宜蘭主題樂園全攻略-從親子農場到質感展館-最強宜蘭娛樂地圖-9e3d15.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-宜蘭主題樂園全攻略-親子共遊與生態體驗的完美結合-90aea2.html</loc>
     <lastmod>2026-04-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -32301,6 +32536,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-宜蘭主題樂園推薦-體驗經濟時代的親子同遊新選擇-eee855.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-宜蘭主題樂園新潮流-年輕人的夜遊體驗與音樂現場完全指南-cb279f.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -32311,6 +32551,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-宜蘭主題樂園與休閒農場全攻略-臺北後花園的親子同樂首選-290318.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-宜蘭主題樂園與娛樂體驗-年輕族群的夜間音樂現場與創意工坊-1dd612.html</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -32318,6 +32563,16 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-宜蘭主題樂園與戶外體驗完全指南-從遊樂園到山林冒險的全方位攻略-ea769d.html</loc>
     <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-宜蘭主題樂園與音樂場域-從傳統遊樂到獨立音樂的能量現場-43b796.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-宜蘭主題樂園-山海之間的休閒新樂園-07d8b0.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -33136,6 +33391,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-taipei-臺北主題樂園與娛樂場所全攻略-從室內冒險到創意體驗的多元玩樂地圖-7a89a4.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-taipei-臺北主題樂園與娛樂場所-都會青年的玩樂秘境指南-81917b.html</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -33168,6 +33428,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-taipei-臺北夜遊完全攻略-夏季傍晚後的多元娛樂體驗指南-ad2abd.html</loc>
     <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-taipei-臺北夜遊指南-晚上也能嗨翻的主題樂園與娛樂體驗-1326f1.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -33433,6 +33698,16 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-tainan-臺南主題樂園與遊樂設施全攻略-657a07.html</loc>
     <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-tainan-臺南主題樂園與體驗場域全攻略-從主題樂園到特色體驗的多元選擇-8f209f.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-tainan-臺南主題樂園與體驗場所全攻略-古都的創新娛樂地圖-93c523.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -34918,6 +35193,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-jiufen-九份購物指南-山城老街特色店家與必敗伴手禮-0c244c.html</loc>
     <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-jiufen-九份購物指南-山城老街的特色商店與私房選物-068f47.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -36566,6 +36846,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-hualien-花蓮購物指南-山海之間的慢城消費學-d86597.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-hualien-花蓮購物指南-山海之間的特色商場與在地好店-a5fd40.html</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -37586,8 +37871,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-jiufen-九份電子產品選購指南-山城老街的科技小舖-3b9258.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-jiufen-九份電子產品選購指南-山城裡的另類科技風景-839392.html</loc>
     <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-jiufen-九份電子產品選購指南-山城裡的復古數位體驗-01dd92.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -38441,6 +38736,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-sun-moon-lake-日月潭電子產品選購指南-旅遊裝備推薦與實用資訊-e99d6e.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-sun-moon-lake-日月潭電子維修指南-山區旅人的-dispositivo-守護者-6df25c.html</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -39096,6 +39396,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-tainan-臺南質感電子選物-巷弄裡的聲音實驗室-4a7b1a.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-tainan-臺南農業科技與電子裝置-鹽地裡的智慧農業shopping攻略-4e135c.html</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -39108,6 +39413,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-tainan-臺南電子diy與創客文化-古都裡的動手做科技體驗-10470d.html</loc>
     <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-tainan-臺南電子小店-巷弄裡的質感選物與老師傅的維修哲學-e34f19.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -39128,6 +39438,16 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-tainan-臺南電子產品採購地圖-從街邊小店到數位生活-9a96f9.html</loc>
     <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-tainan-臺南電子產品採購指南-古都裡的科技脈動-464845.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-tainan-臺南電子產品採購指南-旅遊臺南的3c科技救援站-4a86e0.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -39758,6 +40078,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-kaohsiung-高雄數位體驗新玩法-從互動科技到兒童程式教育的在地推薦-eff058.html</loc>
     <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-kaohsiung-高雄電子小宇宙-巷弄零件行與維修達人的秘密基地-231698.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -41726,6 +42051,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-taipei-臺北翡翠玉市-尋寶愛好者的東方珠寶天堂-17dbf3-1784369255.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-taipei-臺北翡翠玉市-新手入門的玉石選購指南-5278e9.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -42411,6 +42741,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-alishan-阿里山玉石市場-高山茶韻與原住民工藝的交匯之旅-d26cdc.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-alishan-阿里山玉石市場-高山茶香與原住民工藝的寶石秘境-737534.html</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -42493,6 +42828,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-alishan-阿里山珠寶玉石購物指南-山城的珍寶尋寶地圖-5edc79.html</loc>
     <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-alishan-阿里山珠寶購物指南-高山茶鄉的精緻工藝品-fcacee.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -42613,6 +42953,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kaohsiung-高雄玉石市場-巷弄尋寶的南臺灣珠寶購物指南-958f5c.html</loc>
     <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kaohsiung-高雄玉石市場-探索南臺灣的珍寶購物秘境-4c4b09.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -42956,6 +43301,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-jiufen-九份鳳梨酥購買指南-山城裡的甜蜜伴手禮-f89473.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-jiufen-九份鳳梨酥選購指南-如何在山城找出好伴手禮-f88f33.html</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -43128,6 +43478,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-kenting-墾丁伴手禮推薦-那些你在恆春半島買得到的鳳梨酥-051f69.html</loc>
     <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-kenting-墾丁伴手禮攻略-遊客必買鳳梨酥採購指南-ae6d39.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -43436,6 +43791,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-yilan-宜蘭鳳梨酥這樣買-在地達人帶路的5家特色店家推薦-564f02.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-yilan-宜蘭鳳梨酥選購指南-伴手禮背後的山海物語-6fb149.html</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -43548,6 +43908,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-sun-moon-lake-日月潭伴手禮指南-南投特色鳳梨酥買什麼牌子的-local-delig-fd82e1.html</loc>
     <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-sun-moon-lake-日月潭伴手禮指南-風景區裡的在地好味道-11c44f.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -45326,6 +45691,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-souvenir-gifts-jiufen-九份伴手禮完整指南-礦業山城的手作文創地圖-ddc53d.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-souvenir-gifts-jiufen-九份伴手禮時段攻略-傍晚後的山城尋寶與年輕職人的新選擇-e0b577.html</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -46221,6 +46591,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-souvenir-gifts-sun-moon-lake-日月潭深度伴手禮地圖-從邵族手作到冠軍茶香的質感選物-2334be.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-souvenir-gifts-sun-moon-lake-日月潭深度購物提案-走進茶廠與工坊的職人體驗指南-6a05e5.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -46903,6 +47278,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-souvenir-gifts-tainan-臺南伴手禮深度探索-從傳統工藝到質感設計的城市禮贈選擇-b713e2.html</loc>
     <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-souvenir-gifts-tainan-臺南伴手禮深度攻略-從傳統市場到文創小店-達人的私房採購地圖-43d79a.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -48176,6 +48556,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-jiufen-九份茶店時光-山城裡的茶香與懷舊-961a20.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-jiufen-九份茶指南-山城裡的茶香學問與品茗入門-167903.html</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -48508,6 +48893,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-kenting-墾丁茶店推薦-南國陽光下的茶香時光-929049.html</loc>
     <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-kenting-墾丁茶店推薦-在南國陽光與海風中品茗的獨特體驗-cc24fb.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -49416,6 +49806,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-taipei-臺北茶店推薦-在都會水泥叢林裡找一片茶香寧靜-4696f3.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-taipei-臺北茶店推薦-在都會節奏中遇見一杯好茶-ab8a9d.html</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -49671,6 +50066,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-taipei-臺北茶飲新革命-特色茶店精選指南-03e18a.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-taipei-臺北質感茶店推薦-文青設計與老屋風格的茶香地圖-9d1f1d.html</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -49791,6 +50191,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-tainan-臺南茶店推薦-古都巷弄中的茶香時光-84db0e-1784380737.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-tainan-臺南茶店推薦-夕陽後的茶時光-5家巷弄中的夜晚茶館-f42be2.html</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -49808,6 +50213,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-tainan-臺南茶店日常-從早餐配茶到巷口老茶行的在地生活-e70b89.html</loc>
     <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-tainan-臺南茶店漫旅-古都巷弄中的茶香時光-aacff2.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -50956,6 +51366,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-jiufen-九份海灘不存在-但瑞芳濱海有秘境-新北瑞芳海岸線這樣玩-b9b6b8.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-jiufen-九份的海岸線-山海之間的蔚藍尋覓-b8a5a5.html</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -51238,6 +51653,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-yilan-宜蘭海灘-火山與洋流交會的黑色海岸-在地海鮮與四季風光-554572.html</loc>
     <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-yilan-宜蘭海灘-烏砂海岸的在地魅力-衝浪與溫泉的完美交界-18b96e.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -51956,6 +52376,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-tainan-臺南海灘-鹽田與夕陽交織的西部海岸風情-c51633.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-tainan-臺南海灘-鹽田與夕陽的西南海岸物語-68b0f7.html</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -52023,6 +52448,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-hualien-花蓮海灘完全指南-從衝浪勝地到靜謐礫灘-東海岸四大體驗型別一次掌握-a02f3a.html</loc>
     <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-hualien-花蓮海灘完全指南-揹包客視角的東海岸秘境-f767eb.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -53621,6 +54051,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-taichung-臺中文化聚落-山海之間的創意小宇宙-5202d3.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-taichung-臺中文化聚落-從清晨到深夜的時光漫步-2b26ac.html</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -54198,6 +54633,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-alishan-阿里山文化聚落與周邊部落-探訪高山鐵道沿線的在地生活-c0be3b.html</loc>
     <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-alishan-阿里山文化聚落-探訪山林的部落智慧與茶鄉美學-19c3e4.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -55876,6 +56316,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cycling-routes-tainan-臺南產業之路腳踏車道-穿越鹽田-糖廠與漁村的歷史騎行-ef31a4.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cycling-routes-tainan-臺南腳踏車路線-食在地騎-從鹽分地帶到生態綠隧的深度慢行-2f526b.html</loc>
     <lastmod>2026-03-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -56921,6 +57366,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-yilan-宜蘭溫泉-臺北後花園的暖湯選擇-e0438b.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-yilan-宜蘭溫泉-預算與體驗的完整地圖-ba9043.html</loc>
     <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -57636,6 +58086,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-tainan-臺南溫泉指南-關子嶺泥漿浴與周邊秘境溫泉完整攻略-c0bb9f.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-tainan-臺南溫泉指南-關子嶺泥漿溫泉的美學與日常-09ff3a.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-tainan-臺南溫泉散步-從泥漿池到星空下的山城溫暖-8cad35.html</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -58226,6 +58686,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-kaohsiung-高雄溫泉指南-山城裡的野湯秘徑與溫泉鄉故事-6044c7.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-kaohsiung-高雄溫泉文化巡禮-從日治遺跡到原鄉故事-790ce2.html</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -58466,6 +58931,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-jiufen-九份山徑-漫步金色山城的歷史古道與自然秘境-c4a4a0.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-jiufen-九份山徑-生態觀察家的私房登山指南-e739dd.html</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -58673,6 +59143,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-kenting-墾丁夜間生態步道-暗夜中的熱帶雨林探險與螢火蟲奇蹟-d83acb.html</loc>
     <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-kenting-墾丁山徑完全指南-熱帶季風林裡的生態探索-b119f8.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -60116,6 +60591,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-alishan-阿里山步道深度攻略-循著鐵道與古道走進時光隧道-1e100a.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-alishan-阿里山步道-遠離人潮的五條秘境山徑-f8d743.html</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -61031,6 +61511,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-yilan-宜蘭國家公園旅遊指南-從都會通往自然的綠色門戶-608563.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-yilan-宜蘭國家公園級山林-太平山-棲蘭-明池的原始森林秘境-8dd202.html</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -61461,6 +61946,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-taichung-臺中周邊國家公園與森林遊樂區完全指南-從城市通往山林的便捷門戶-0d4ba7.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-taichung-臺中周邊國家公園與森林遊樂區-從市區出發的自然避暑秘境-acd79c.html</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -61498,6 +61988,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-taichung-臺中國家公園完整指南-探索中部山區的自然瑰寶-33aacf.html</loc>
     <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-taichung-臺中國家公園完整指南-通往山嶽與生態秘境的門戶-e99d42.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -61776,6 +62271,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-tainan-臺南國家公園完整指南-臺江濕地生態與歷史文化之旅-8d9b98-1784352405.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-tainan-臺南國家公園完整指南-臺江濕地生態與歷史深度之旅-cc3b39.html</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -61788,6 +62288,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-tainan-臺南國家公園完整指南-走進臺江濕地的生態寶藏與歷史足跡-7d215e.html</loc>
     <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-tainan-臺南國家公園完整指南-走進臺江濕地的生態與歷史故事-fe609e.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -63066,6 +63571,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-old-streets-sun-moon-lake-日月潭周邊老街-走進茶鄉與邵族的日常風景-845da0.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-old-streets-sun-moon-lake-日月潭周邊老街-超越觀游標語的文化走讀-cc2c00.html</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -64096,6 +64606,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-old-streets-alishan-阿里山老街-走進高山鐵道的慢時光-b22951.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-old-streets-alishan-阿里山老街-走進高山鐵道與茶香交織的時代-be4b48.html</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -65043,6 +65558,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-temples-sun-moon-lake-日月潭周邊信仰空間-湖畔小廟的山林氣息與在地生活-b900ea.html</loc>
     <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-temples-sun-moon-lake-日月潭周邊寺廟參訪指南-靜謐山水的宗教文化之旅-48043a.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -66656,6 +67176,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-taichung-taichung-whale-watching-85e465-1784367399.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-tainan-tainan-whale-watching-0cbfd4.html</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -66998,6 +67523,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-yilan-宜蘭賞鯨攻略-乘風破浪-與海洋精靈的浪漫邂逅-dbd2b3.html</loc>
     <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-yilan-宜蘭賞鯨攻略-乘風破浪-與海洋精靈的浪漫邂逅-dbd2b3-1784379143.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -67546,6 +68076,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-taipei-臺北賞鯨完全指南-從城市出發的海洋奇遇-06d91a.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-taipei-臺北賞鯨完全指南-從河口到太平洋的海上冒險-4df625.html</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -67558,6 +68093,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-taipei-臺北賞鯨完全指南-從臺北出發的海上奇遇-價格-預期與行程規劃-68889d.html</loc>
     <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-taipei-臺北賞鯨完全指南-從都會出發-追逐海洋精靈的浪漫航程-27bab8.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -67878,6 +68418,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-tainan-臺南賞鯨體驗-中西海域的鯨豚蹤跡與沿海文化探尋-b5fb13.html</loc>
     <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-tainan-臺南賞鯨體驗-近海生態探險-都會與海洋的完美交會-c1a9db.html</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -68580,917 +69125,5 @@
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-alishan-alishan-aboriginal-cuisine-c48756-1774161020.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-alishan-alishan-aboriginal-cuisine-c48756.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-jiufen-jiufen-aboriginal-cuisine-f4fb74.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-kaohsiung-kaohsiung-aboriginal-cuisine-d9eb7c-1774160885.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-kenting-kenting-aboriginal-cuisine-b84113.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-taichung-taichung-aboriginal-cuisine-f318bd.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-taichung-臺中原住民美食-都會叢林中的部落風味探索-5fd197.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-taipei-taipei-aboriginal-cuisine-575491-1774161057.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-alishan-alishan-beef-noodle-32a8cb.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-hualien-hualien-beef-noodle-b6e438.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-kenting-kenting-beef-noodle-7817e8.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-sun-moon-lake-sun-moon-lake-beef-noodle-83df63.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-taichung-taichung-beef-noodle-f39f78.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-jiufen-九份珍珠奶茶-山城茶香與現代飲品的完美融合-28569c.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-alishan-alishan-hot-springs-dining-92f04e-1774300274.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-alishan-alishan-hot-springs-dining-92f04e-1774302721.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-jiufen-jiufen-hot-springs-dining-4aaf1d-1774302651.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-jiufen-jiufen-hot-springs-dining-4aaf1d.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-kenting-kenting-hot-springs-dining-9e6c81-1774302578.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-kenting-kenting-hot-springs-dining-9e6c81.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-sun-moon-lake-sun-moon-lake-hot-springs-dining-afa751-1774302688.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-sun-moon-lake-sun-moon-lake-hot-springs-dining-afa751.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-taichung-taichung-hot-springs-dining-483473.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-taipei-taipei-hot-springs-dining-62c3b9.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-alishan-alishan-night-markets-cb8db5.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-hualien-hualien-night-markets-51648c-1774168385.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-hualien-hualien-night-markets-51648c-1774280518.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-kaohsiung-kaohsiung-night-markets-6ade46.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-kenting-kenting-night-markets-866f96.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-sun-moon-lake-sun-moon-lake-night-markets-603191.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-yilan-yilan-night-markets-0c9df9.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-alishan-alishan-seafood-773ae7.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-jiufen-jiufen-seafood-126ab9-1774184008.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-jiufen-jiufen-seafood-126ab9.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-hualien-hualien-vegetarian-buddhist-113bb8.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-hualien-花蓮佛教素食文化巡禮-山海之間的清心美味-c6cd8a.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-jiufen-jiufen-vegetarian-buddhist-96e218.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-sun-moon-lake-sun-moon-lake-vegetarian-buddhis-808a22.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-yilan-yilan-vegetarian-buddhist-f8d1cd.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-sun-moon-lake-sun-moon-lake-xiaolongbao-7cf207.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-hualien-hualien-festivals-9460ca-1774155197.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-hualien-hualien-festivals-9460ca-1774237049.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-hualien-hualien-festivals-9460ca.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-jiufen-jiufen-festivals-b2b2ae.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-festivals-kenting-墾丁節慶盛典-南臺灣最熱情的音樂與文化狂歡-28a8cb.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-ktv-alishan-alishan-ktv-44bda5-1774179346.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-ktv-alishan-alishan-ktv-44bda5.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-ktv-jiufen-jiufen-ktv-ceaa2e.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-ktv-sun-moon-lake-sun-moon-lake-ktv-212050-1774220472.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-ktv-yilan-yilan-ktv-74135e.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-lantern-festival-alishan-alishan-lantern-festival-57d8ce.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-lantern-festival-hualien-hualien-lantern-festival-70c800.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-lantern-festival-jiufen-jiufen-lantern-festival-9c3f4f-1774195574.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-lantern-festival-jiufen-jiufen-lantern-festival-9c3f4f.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-lantern-festival-kaohsiung-kaohsiung-lantern-festival-9d206c.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-lantern-festival-taichung-taichung-lantern-festival-cc392d-1774154219.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-lantern-festival-taipei-taipei-lantern-festival-2e2afd.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-alishan-alishan-live-houses-991bb7.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-hualien-hualien-live-houses-dc70cc.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-jiufen-jiufen-live-houses-34f8e5.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-kaohsiung-kaohsiung-live-houses-3f727a.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-kenting-kenting-live-houses-1c8270.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-taichung-taichung-live-houses-c1cae1-1774161912.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-tainan-tainan-live-houses-49c686-1774161739.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-yilan-yilan-live-houses-6af7db-1774161128.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-houses-yilan-yilan-live-houses-6af7db.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-hualien-hualien-live-performances-094540.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-jiufen-jiufen-live-performances-fc73f1.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-kaohsiung-kaohsiung-live-performances-bad2fb.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-kenting-kenting-live-performances-0392b5.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-sun-moon-lake-sun-moon-lake-live-performa-d60660.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-live-performances-taichung-taichung-live-performances-f6b536.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-alishan-alishan-theme-parks-97b10a.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-hualien-hualien-theme-parks-a2ab04-1774299828.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-hualien-hualien-theme-parks-a2ab04.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-jiufen-jiufen-theme-parks-f2e716.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-kaohsiung-kaohsiung-theme-parks-e86a84-1774299797.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-kenting-kenting-theme-parks-503882.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-sun-moon-lake-sun-moon-lake-theme-parks-4da014.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-tainan-tainan-theme-parks-eadc78.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-taipei-taipei-theme-parks-e3ef61-1774296525.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-taipei-taipei-theme-parks-e3ef61-1774299765.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-yilan-theme-parks-dd4630-1774160776.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-entertainment-theme-parks-yilan-yilan-theme-parks-dd4630.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-alishan-alishan-department-stores-190e70-1774243506.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-alishan-alishan-department-stores-190e70.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-hualien-hualien-department-stores-22128a.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-kenting-kenting-department-stores-4b0e96-1774302545.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-kenting-kenting-department-stores-4b0e96.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-sun-moon-lake-sun-moon-lake-department-stores-e4ca4d.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-taichung-taichung-department-stores-d7fabc.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-tainan-tainan-department-stores-620f32-1774302415.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-tainan-tainan-department-stores-620f32.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-department-stores-yilan-yilan-department-stores-3a445a.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-alishan-alishan-electronics-c07c50.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-jiufen-jiufen-electronics-a17b77-1774135437.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-jiufen-jiufen-electronics-a17b77-1774197680.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-yilan-yilan-electronics-a19954-1774198397.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-alishan-alishan-jade-market-f5bd4a.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-hualien-hualien-jade-market-5172c6.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-jiufen-jiufen-jade-market-e1af54.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kaohsiung-kaohsiung-jade-market-a391d5-1774167468.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kaohsiung-kaohsiung-jade-market-a391d5-1774203787.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kaohsiung-kaohsiung-jade-market-a391d5.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kenting-kenting-jade-market-b799ff-1774204067.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kenting-kenting-jade-market-b799ff.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-sun-moon-lake-sun-moon-lake-jade-market-9a31bc-1774167640.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-sun-moon-lake-sun-moon-lake-jade-market-9a31bc.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-taichung-taichung-jade-market-4b841b.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-tainan-tainan-jade-market-f12259-1774203642.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-tainan-tainan-jade-market-f12259-1774235689.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-taipei-taipei-jade-market-163263.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-yilan-yilan-jade-market-78ba86.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-alishan-alishan-pineapple-cakes-6b156d.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-sun-moon-lake-sun-moon-lake-pineapple-cakes-661d25-1774276675.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-tainan-tainan-pineapple-cakes-11fe78.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-yilan-yilan-pineapple-cakes-707ed8.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-souvenir-gifts-alishan-alishan-souvenir-gifts-ccc9ec.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-alishan-alishan-tea-shops-273d9e-1774303773.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-alishan-alishan-tea-shops-273d9e.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-hualien-hualien-tea-shops-a05b66-1774303522.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-hualien-hualien-tea-shops-a05b66.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-kenting-kenting-tea-shops-0ec48c.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-sun-moon-lake-sun-moon-lake-tea-shops-50e19f.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-taipei-taipei-tea-shops-eeaf0d.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-tea-shops-yilan-yilan-tea-shops-137e20.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-sun-moon-lake-sun-moon-lake-beaches-f067f2.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-taichung-taichung-beaches-d44963.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-alishan-alishan-cultural-villages-5b6a27.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-hualien-hualien-cultural-villages-b93fc8.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-taichung-taichung-cultural-villages-b504ca.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-tainan-tainan-cultural-villages-ac7f59.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cycling-routes-jiufen-jiufen-cycling-routes-84a55f.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cycling-routes-yilan-yilan-cycling-routes-d2b49b.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-alishan-alishan-hot-springs-bb4212.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-jiufen-jiufen-hot-springs-c13a43.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-kenting-kenting-hot-springs-71b301.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-jiufen-jiufen-mountain-trails-1ac5c6.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-taipei-taipei-mountain-trails-fbc94c.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-alishan-alishan-national-parks-635aab-1774128650.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-hualien-hualien-national-parks-29f29c-1774257203.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-hualien-hualien-national-parks-29f29c.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-kenting-kenting-national-parks-a6f558-1774257103.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-kenting-kenting-national-parks-a6f558.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-taichung-taichung-national-parks-694068.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-taipei-taipei-national-parks-6194e8.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-old-streets-alishan-alishan-old-streets-0cb61e.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-old-streets-kaohsiung-kaohsiung-old-streets-1a62ac.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-old-streets-sun-moon-lake-sun-moon-lake-old-streets-a01880.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-old-streets-taichung-taichung-old-streets-ebffb4.html</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-temples-kenting-kenting-temples-bc6940.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-sun-moon-lake-sun-moon-lake-whale-watching-02d40b.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
   </url>
 </urlset>
