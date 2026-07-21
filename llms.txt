@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 14385 篇，覆蓋 16 個行業
+- 總文章數: 14459 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,10 +15,10 @@
 - robots.txt: https://taiwan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 3740 篇
-- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 3726 篇
-- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 3425 篇
-- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 3371 篇
+- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 3759 篇
+- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 3745 篇
+- [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 3445 篇
+- [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 3387 篇
 - [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 74 篇
 - [住宿] https://taiwan-encyclopedia.vercel.app/#industry-hotels — 14 篇
 - [活動] https://taiwan-encyclopedia.vercel.app/#industry-events — 10 篇
@@ -45,13 +45,13 @@
 - [kaohsiung street-food](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-kaohsiung-street-food-05ea6c-1779449197.html): {"title":"高雄巷弄美食地圖：從鹽埕到旗津，徒步三分鐘的澎湃滋味","content_zh":"說起高雄街頭美食...
 - [臺南夜市硝：傍晚五點後的府城味蕾冒險](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-tainan-臺南夜市硝-傍晚五點後的府城味蕾冒險-4f8f55.html): 說起臺南美食，多數人先想到清晨的牛肉湯、碗粿，但其實古都的夜晚同樣熱鬧。臺南夜市密度驚人，花園夜市、大東夜市、 武聖夜市...
 - [高雄港都的夜色美味：從傍晚到深夜的在地人一條街](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-高雄港都的夜色美味-從傍晚到深夜的在地人一條街-5f9f29.html): {"title":"高雄港都深夜食堂：下班的工人的這一餐，5家local才知道的宵夜場","content_","tag...
+- [墾丁電子產品購買指南：海灘旅遊的臨時電子需求全攻略](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-electronics-kenting-墾丁電子產品購買指南-海灘旅遊的臨時電子需求全攻略-39667f.html): 來到墾丁，陽光、沙灘、海水讓人只想盡情玩水，但隨身的手機、相機、防水相機這些電子裝置，卻可能在熱情的南國驕陽下「罷工」。...
 - [alishan jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-alishan-alishan-jade-market-f5bd4a-1782709308.html): # 誠實回應  我需要向您誠實報告一個重要的**事實核查問題**：  根據我的領域知識和RAG記憶，我**無法確認阿里山...
 - [jiufen jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-jiufen-jiufen-jade-market-e1af54-1781728169.html): 我需要誠實地向您報告一個重要的發現：  根據我的知識庫和過往寫作經驗，**我無法確認「九份的Jade Market」（玉...
 - [kenting jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kenting-kenting-jade-market-b799ff-1780649748.html): 我需要誠實地指出這個重要的問題：根據我的知識和過往寫作經驗，**我無法確認墾丁是否有一個知名的「Jade Market」...
 - [kenting jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kenting-kenting-jade-market-b799ff-1780962742.html): 我必須誠實地向您報告：根據我的知識和過往學習的記憶，**我無法確認墾丁存在一個知名的「Jade Market」玉石市場*...
 - [kenting jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-kenting-kenting-jade-market-b799ff-1781078137.html): 我必須誠實地向您報告：根據我的知識庫和過往撰寫類似主題的經驗，我無法確認**墾丁存在一個知名的「Jade Market」...
 - [taichung jade-market](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-jade-market-taichung-taichung-jade-market-4b841b-1779332963.html): # 【系統鑒別結果】  ## 最終裁決：不適合作答  ### 不確認事實存在  經過核查比對：  1. **核心事實不明...
-- [hualien pineapple-cakes](https://taiwan-encyclopedia.vercel.app/articles/taiwan-shopping-pineapple-cakes-hualien-hualien-pineapple-cakes-3fec61-1779510886.html): {"error":"CANNOT_COMPLETE_TASK","reason":"verified_facts_not...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）
