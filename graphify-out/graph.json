@@ -1,0 +1,554 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "id": "aeo_ai_crawler_visibility_pipeline",
+        "label": "AEO / AI-Crawler Visibility Pipeline",
+        "nodes": [
+          "robots_ai_crawler_allowlist",
+          "llms_site_identity",
+          "api_track_ai_bots",
+          "api_track_handler"
+        ],
+        "relation": "participate_in",
+        "confidence": "INFERRED",
+        "confidence_score": 0.8,
+        "source_file": "robots.txt"
+      },
+      {
+        "id": "site_ownership_verification_files",
+        "label": "Site Ownership / Search-Engine Verification Files",
+        "nodes": [
+          "well_known_ba56701768004b66b7e64c28a1e90f9e_verification_token",
+          "ba56701768004b66b7e64c28a1e90f9e_verification_token",
+          "indexnow_indexnow_key",
+          "google5e0eee435bc41b03_site_verification"
+        ],
+        "relation": "form",
+        "confidence": "INFERRED",
+        "confidence_score": 0.75,
+        "source_file": "indexnow.txt"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "label": "track.js",
+      "file_type": "code",
+      "source_file": "api/track.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "api_track",
+      "community": 0,
+      "norm_label": "track.js"
+    },
+    {
+      "label": "config",
+      "file_type": "code",
+      "source_file": "api/track.js",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "api_track_config",
+      "community": 0,
+      "norm_label": "config"
+    },
+    {
+      "label": "PIXEL",
+      "file_type": "code",
+      "source_file": "api/track.js",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "api_track_pixel",
+      "community": 0,
+      "norm_label": "pixel"
+    },
+    {
+      "label": "AI_BOTS",
+      "file_type": "code",
+      "source_file": "api/track.js",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "api_track_ai_bots",
+      "community": 2,
+      "norm_label": "ai_bots"
+    },
+    {
+      "label": "detectBot()",
+      "file_type": "code",
+      "source_file": "api/track.js",
+      "source_location": "L45",
+      "_origin": "ast",
+      "id": "api_track_detectbot",
+      "community": 0,
+      "norm_label": "detectbot()"
+    },
+    {
+      "label": "hashIP()",
+      "file_type": "code",
+      "source_file": "api/track.js",
+      "source_location": "L53",
+      "_origin": "ast",
+      "id": "api_track_haship",
+      "community": 0,
+      "norm_label": "haship()"
+    },
+    {
+      "label": "handler()",
+      "file_type": "code",
+      "source_file": "api/track.js",
+      "source_location": "L59",
+      "_origin": "ast",
+      "id": "api_track_handler",
+      "community": 0,
+      "norm_label": "handler()"
+    },
+    {
+      "label": "vercel.json",
+      "file_type": "code",
+      "source_file": "vercel.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "vercel",
+      "community": 5,
+      "norm_label": "vercel.json"
+    },
+    {
+      "label": "headers",
+      "file_type": "code",
+      "source_file": "vercel.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "vercel_headers",
+      "community": 5,
+      "norm_label": "headers"
+    },
+    {
+      "label": "Bing IndexNow .well-known Verification Token",
+      "file_type": "document",
+      "source_file": ".well-known/ba56701768004b66b7e64c28a1e90f9e.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "well_known_ba56701768004b66b7e64c28a1e90f9e_verification_token",
+      "community": 1,
+      "norm_label": "bing indexnow .well-known verification token"
+    },
+    {
+      "label": "IndexNow Verification Token (site root)",
+      "file_type": "document",
+      "source_file": "ba56701768004b66b7e64c28a1e90f9e.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "ba56701768004b66b7e64c28a1e90f9e_verification_token",
+      "community": 1,
+      "norm_label": "indexnow verification token (site root)"
+    },
+    {
+      "label": "Legacy/Orphan IndexNow Verification Token",
+      "file_type": "document",
+      "source_file": "570eb046f71cfbe946a687fcfc6d050e.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Hash differs from the active IndexNow key (ba5670...) and has no matching /.well-known/ counterpart, suggesting a stale key left over from a previous IndexNow key rotation.",
+      "id": "570eb046f71cfbe946a687fcfc6d050e_verification_token",
+      "community": 1,
+      "norm_label": "legacy/orphan indexnow verification token"
+    },
+    {
+      "label": "Google Search Console Site Verification",
+      "file_type": "document",
+      "source_file": "google5e0eee435bc41b03.html",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "google5e0eee435bc41b03_site_verification",
+      "community": 6,
+      "norm_label": "google search console site verification"
+    },
+    {
+      "label": "IndexNow Key File (indexnow.txt)",
+      "file_type": "document",
+      "source_file": "indexnow.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "indexnow_indexnow_key",
+      "community": 1,
+      "norm_label": "indexnow key file (indexnow.txt)"
+    },
+    {
+      "label": "robots.txt AI Crawler Allowlist",
+      "file_type": "document",
+      "source_file": "robots.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Explicitly allow-lists 25+ international and Chinese AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Baiduspider, Bytespider, etc.) plus a Sitemap directive - an AEO (AI-engine-optimization) posture rather than a restrictive robots policy.",
+      "id": "robots_ai_crawler_allowlist",
+      "community": 2,
+      "norm_label": "robots.txt ai crawler allowlist"
+    },
+    {
+      "label": "llms.txt Site Identity Block",
+      "file_type": "document",
+      "source_file": "llms.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "llms_site_identity",
+      "community": 2,
+      "norm_label": "llms.txt site identity block"
+    },
+    {
+      "label": "llms.txt Industry Directory (14638 articles / 16 industries)",
+      "file_type": "document",
+      "source_file": "llms.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "llms_industry_directory",
+      "community": 3,
+      "norm_label": "llms.txt industry directory (14638 articles / 16 industries)"
+    },
+    {
+      "label": "llms.txt Featured Articles (Top 15 by quality score)",
+      "file_type": "document",
+      "source_file": "llms.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Several of the sample articles listed as top-quality-score are actually LLM refusal/error outputs (e.g. 'CANNOT_COMPLETE_TASK', '\u6211\u7121\u6cd5\u53ef\u9760\u5730\u5b8c\u6210...') published verbatim as article content, indicating the quality-score ranking used to pick 'featured' articles does not detect failed generations.",
+      "id": "llms_top_articles",
+      "community": 9,
+      "norm_label": "llms.txt featured articles (top 15 by quality score)"
+    },
+    {
+      "label": "llms.txt Cross-Domain Knowledge Graph Section",
+      "file_type": "document",
+      "source_file": "llms.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "llms_ecosystem_graph",
+      "community": 4,
+      "norm_label": "llms.txt cross-domain knowledge graph section"
+    },
+    {
+      "label": "llms.txt Brand & Platform Sites Section",
+      "file_type": "document",
+      "source_file": "llms.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "llms_brand_sites",
+      "community": 8,
+      "norm_label": "llms.txt brand & platform sites section"
+    },
+    {
+      "label": "index.html Organization/WebSite JSON-LD",
+      "file_type": "document",
+      "source_file": "index.html",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "index_site_schema",
+      "community": 2,
+      "norm_label": "index.html organization/website json-ld"
+    },
+    {
+      "label": "index.html FAQPage JSON-LD",
+      "file_type": "document",
+      "source_file": "index.html",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "The FAQPage schema embedded on the Taiwan Encyclopedia homepage contains questions/answers about Macao (\u8336\u6a13, \u9000\u7a05, La Mer/SK-II pricing) rather than Taiwan - strong evidence this FAQ block is a copy-pasted, unmodified fragment from the sibling cloudpipe-macao-app template shared across the CloudPipe encyclopedia sites.",
+      "id": "index_faq_schema",
+      "community": 7,
+      "norm_label": "index.html faqpage json-ld"
+    },
+    {
+      "label": "index.html Client-Side Article Browser (search/filter/sort/paginate)",
+      "file_type": "document",
+      "source_file": "index.html",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "index_article_browser_app",
+      "community": 3,
+      "norm_label": "index.html client-side article browser (search/filter/sort/paginate)"
+    },
+    {
+      "label": "index.html Footer Ecosystem Navigation",
+      "file_type": "document",
+      "source_file": "index.html",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "index_ecosystem_nav",
+      "community": 4,
+      "norm_label": "index.html footer ecosystem navigation"
+    },
+    {
+      "label": "og-cover.svg Open Graph Cover Image",
+      "file_type": "image",
+      "source_file": "og-cover.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "og_cover_og_cover_image",
+      "community": 10,
+      "norm_label": "og-cover.svg open graph cover image"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "api/track.js",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "api_track",
+      "target": "api_track_ai_bots",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "api/track.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "api_track",
+      "target": "api_track_config",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "api/track.js",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "api_track",
+      "target": "api_track_detectbot",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "api/track.js",
+      "source_location": "L59",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "api_track",
+      "target": "api_track_handler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "api/track.js",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "api_track",
+      "target": "api_track_haship",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "api/track.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "api_track",
+      "target": "api_track_pixel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "robots.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "robots_ai_crawler_allowlist",
+      "target": "api_track_ai_bots"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "api/track.js",
+      "source_location": "L61",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "api_track_handler",
+      "target": "api_track_detectbot",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "api/track.js",
+      "source_location": "L67",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "api_track_handler",
+      "target": "api_track_haship",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "vercel.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "vercel",
+      "target": "vercel_headers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": ".well-known/ba56701768004b66b7e64c28a1e90f9e.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "well_known_ba56701768004b66b7e64c28a1e90f9e_verification_token",
+      "target": "ba56701768004b66b7e64c28a1e90f9e_verification_token"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "570eb046f71cfbe946a687fcfc6d050e.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "570eb046f71cfbe946a687fcfc6d050e_verification_token",
+      "target": "ba56701768004b66b7e64c28a1e90f9e_verification_token"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "indexnow.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "indexnow_indexnow_key",
+      "target": "ba56701768004b66b7e64c28a1e90f9e_verification_token"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "robots.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "robots_ai_crawler_allowlist",
+      "target": "llms_site_identity"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "index.html",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "index_site_schema",
+      "target": "llms_site_identity"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "index.html",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "index_article_browser_app",
+      "target": "llms_industry_directory"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "index.html",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "index_ecosystem_nav",
+      "target": "llms_ecosystem_graph"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "aeo_ai_crawler_visibility_pipeline",
+      "label": "AEO / AI-Crawler Visibility Pipeline",
+      "nodes": [
+        "robots_ai_crawler_allowlist",
+        "llms_site_identity",
+        "api_track_ai_bots",
+        "api_track_handler"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "robots.txt"
+    },
+    {
+      "id": "site_ownership_verification_files",
+      "label": "Site Ownership / Search-Engine Verification Files",
+      "nodes": [
+        "well_known_ba56701768004b66b7e64c28a1e90f9e_verification_token",
+        "ba56701768004b66b7e64c28a1e90f9e_verification_token",
+        "indexnow_indexnow_key",
+        "google5e0eee435bc41b03_site_verification"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "indexnow.txt"
+    }
+  ],
+  "built_at_commit": "90507e21b31934295bf4e99fb1941773a15b5051"
+}
