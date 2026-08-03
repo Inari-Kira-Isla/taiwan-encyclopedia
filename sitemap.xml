@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://taiwan-encyclopedia.vercel.app/</loc>
-    <lastmod>2026-08-02</lastmod>
+    <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/llms.txt</loc>
-    <lastmod>2026-08-02</lastmod>
+    <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>  <url>
@@ -1213,6 +1213,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-sun-moon-lake-日月潭邵族黃昏餐桌-跟著族人返家的傍晚美食地圖-db201c.html</loc>
     <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-aboriginal-cuisine-alishan-沿著小米香走進阿里山-給自駕旅人的鄒族料理路線-00b4d5.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -2537,6 +2542,11 @@
     <priority>0.8</priority>
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-jiufen-九份牛肉麵指南-在山城霧雨裡-找一碗真正適合旅途的熱湯-1f529a.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-jiufen-九份牛肉麵散步指南-選一碗能坐下來慢慢吃的山城熱湯-21f533.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4078,6 +4088,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-tainan-臺南牛肉麵-清晨限定的古都早餐文化-內行人才知道的牛肉湯配麵指南-8693e1.html</loc>
     <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-hualien-花蓮牛肉麵散步指南-不追名店-沿著車站-市場與海風找一碗熱湯-dbb376.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -6181,6 +6196,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-hualien-花蓮珍珠奶茶散步學-沿著生活圈喝懂山海城市的手搖味-ccd420.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-hualien-花蓮珍珠奶茶選購指南-在地人的挑茶秘笈與市場觀察-8fa515.html</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -6438,6 +6458,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-hualien-花蓮珍珠奶茶-山海風土養出的東臺茶飲哲學-37974e.html</loc>
     <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-alishan-阿里山-bubble-tea-指南-別急著找連鎖店-沿著海拔喝懂高山茶-9152bc.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -9676,6 +9701,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-jiufen-九份沒有夜市-從黃昏散步讀懂山城的夜間食堂-394ade.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-jiufen-九份深夜食堂-在地人帶路的夜色美食地圖-b67fe0.html</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -10358,6 +10388,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-sun-moon-lake-日月潭環湖夜食地圖-在地人帶路的暗夜美食線-0eb4f4.html</loc>
     <lastmod>2026-07-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-taichung-臺中夜市不只逢甲-沿著生活圈吃懂四種城市性格-294865.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -11696,6 +11731,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-jiufen-九份海鮮不只魚丸湯-沿著山城供應線吃懂港口鮮味-5644b5.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-jiufen-九份海鮮大全-山城與海的距離-礦工們的海鮮記憶-935120.html</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -12873,6 +12913,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-taipei-臺北日式海鮮食堂-平價也能吃到的正統日本味-3c1f53.html</loc>
     <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-taipei-臺北海鮮不靠海景-從魚市場-辦桌菜到老派臺菜的鮮味路線-b2e8ae.html</loc>
+    <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -14326,6 +14371,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kenting-墾丁街頭美食不只大街-從恆春老街吃到後壁湖的夜遊路線-e30c89.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kenting-墾丁街頭美食完全指南-南臺灣陽光與海風的味蕾冒險-a7d910.html</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -15406,6 +15456,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-tainan-臺南街頭小吃輪班表-從清晨市場吃到深夜夜市-8081ff.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-tainan-臺南街頭小吃-古都味蕾的地圖攻略-3506a2.html</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -15811,6 +15866,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-alishan-阿里山街頭小吃指南-不追夜市-沿著山路吃懂茶香-鐵路與部落滋味-d0f9c5.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-alishan-阿里山街頭美食全攻略-高山上的暖心滋味-a9fb9a.html</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -16131,6 +16191,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-高雄街頭美食-沿著工人作息-從港邊早餐吃到深夜熱炒-35fa62.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-高雄街頭美食-港都工人的銅板味記憶-c4f9d5.html</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -16443,6 +16508,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-kenting-墾丁佛教素食文化巡禮-陽光沙灘的清心之旅-af9484-1781941903.html</loc>
     <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-kenting-墾丁佛教素食晚餐指南-離開大街-走進恆春人的齋食生活-4dde5b.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -16953,6 +17023,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-sun-moon-lake-日月潭佛教素食全攻略-湖畔清香齋味與在地推薦-7eb905.html</loc>
     <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-sun-moon-lake-日月潭佛教素食散步-從玄奘寺齋味走進魚池人的清淡日常-5f2882.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -17868,6 +17943,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-hualien-花蓮佛教素食小旅行-慈濟故鄉的清心滋味-0b0c91.html</loc>
     <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-hualien-花蓮佛教素食指南-從清晨齋飯到縱谷市場的日常修行-047fac.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -19046,6 +19126,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-yilan-宜蘭小籠包不是迷你湯包-從三星蔥-厚麵皮到清晨蒸籠的在地吃法-3f8c89.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-yilan-宜蘭小籠包伴手禮地圖-旅行帶得走的極致風味-868d42.html</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -20168,6 +20253,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-hualien-花蓮公正街小籠包-一條街的包子宇宙與三十年功力-556529.html</loc>
     <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-xiaolongbao-hualien-花蓮小籠包指南-從厚皮肉包讀懂在地早餐文化-d208c9.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -53906,6 +53996,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-kenting-不只下水玩-從風-砂與珊瑚礁讀懂墾丁海灘-ac5852.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-yilan-不只外澳踏浪-從黑沙-海蝕灣到漁村生活讀懂宜蘭海岸-5bf529.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -58111,6 +58206,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-kaohsiung-高雄文化聚落散步-從眷村-防空洞到客莊與港灣移民史-a1ce40.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-kaohsiung-高雄文化聚落散步-從黃埔-建業到紅毛港-讀懂港都的移住記憶-dfd237.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-kaohsiung-高雄文化聚落深度行-3個隱藏版社群的巷弄風景-65d7da.html</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -59137,6 +59242,11 @@
     <priority>0.8</priority>
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cycling-routes-taichung-沿著鐵道與水圳騎臺中-四條讀懂城市變遷的單車路線-d86eab.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cycling-routes-hualien-沿著鐵道與產業聚落騎花蓮-四條可搭火車撤退的縱谷單車路線-e30982.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -61851,6 +61961,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-taipei-臺北溫泉散步-從百年公共浴場走進北投與行義路的日常湯文化-d8d540.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-taipei-臺北溫泉散步-從百年浴場到硫磺谷-讀懂北投的城市湯文化-a4d7d7.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-taipei-臺北溫泉文化探索-從日治遺韻到現代都會療癒-865117.html</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -62706,6 +62826,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-kaohsiung-高雄溫泉慢行指南-沿荖濃溪走進寶來與不老山谷-ce8ab0.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-hot-springs-kaohsiung-高雄溫泉指南-南臺灣山區的暖湯秘境-56c481.html</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -62833,6 +62958,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-taipei-taipei-mountain-trails-fbc94c-1780493786.html</loc>
     <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-taichung-不追百嶽也能走進山城-給無車旅人與入門者的臺中步道指南-5dc0fc.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -63651,6 +63781,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-taipei-捷運下車就上山-臺北四條-城市後門-山徑-3e6ee6.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-sun-moon-lake-日月潭四季步道提案-用雙腳感受湖畔山林的24種表情-9dbf92.html</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -63658,6 +63793,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-sun-moon-lake-日月潭山徑完全攻略-在地人私藏的5條秘境步道與登山指南-3dc571.html</loc>
     <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-sun-moon-lake-日月潭山徑散步學-從茶園-邵族獵徑到湖岸制高點-8bd7f8.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -63902,6 +64042,11 @@
     <priority>0.8</priority>
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-alishan-沿著林業時間走入雲霧-阿里山山徑的鐵道-神木與聚落記憶-0a39c6.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-mountain-trails-yilan-沿著水聲與運材舊路走宜蘭-四條讀得見林業記憶的山徑-f367d5.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -65356,6 +65501,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-taipei-不攻頂也能讀懂火山-臺北陽明山國家公園慢行指南-1d78b4.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-jiufen-九份不是國家公園-黃金山城的文化歷史與旅遊指南-ae3f02.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -66706,6 +66856,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-taipei-臺北的國家公園-搭公車走進陽明山的火山-草原與人文地景-64ed32.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-taipei-臺北真的沒有國家公園-解密大臺北週邊國家級自然保護區-351262.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -67243,6 +67398,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-hualien-花蓮的國家公園-太魯閣國家公園完整指南-898ed5.html</loc>
     <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-alishan-阿里山不是國家公園-沿著林業-茶山與鄒族生活讀懂一座山-ea17a6.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -69766,6 +69926,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-old-streets-kaohsiung-高雄老街散步-沿著港口-糖業與城門-讀懂一座工業城市-d85af0.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-old-streets-kaohsiung-高雄老街散步-避開觀光人潮的巷弄風景-885a8b.html</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -72011,6 +72176,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-temples-alishan-走進雲霧裡的信仰-阿里山寺廟與山林生活-963be4.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-temples-alishan-阿里山周邊寺廟與宗教場所-偏鄉山城的信仰足跡-17ee60.html</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -72563,6 +72733,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-taipei-taipei-whale-watching-71d356.html</loc>
     <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-hualien-不只追著鯨豚跑-從花蓮港讀懂黑潮的賞鯨旅行-ff3baf.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -74048,6 +74223,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-tainan-臺南賞鯨-真實海岸-guide-從府城出發的海洋文化之旅-4c3c8b.html</loc>
     <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-whale-watching-hualien-花蓮賞鯨入門-從港口-海流到選船-讀懂太平洋上的海豚日常-f039f0.html</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
