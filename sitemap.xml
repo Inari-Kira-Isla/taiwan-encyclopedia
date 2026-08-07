@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://taiwan-encyclopedia.vercel.app/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/llms.txt</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>  <url>
@@ -9081,6 +9081,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-alishan-阿里山暖湯餐桌-給自駕旅人的山麓恢復系美食路線-65c616.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-hot-springs-dining-alishan-阿里山森林系溫泉美食-雲霧茶香間的暖湯之旅-ee7906.html</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -11776,6 +11781,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-kenting-一個人也能吃的墾丁海鮮-從後壁湖漁港到恆春夜市的小份量攻略-f4264c.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-jiufen-九份山城と海の味-瑞芳地區海鮮美食深度探索-e5060e.html</loc>
     <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -12462,6 +12472,11 @@
     <priority>0.8</priority>
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-kenting-從清晨魚市吃到夜晚小攤-墾丁海鮮的一日鮮味路線-d9f614.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-seafood-tainan-從魚皮早餐到潟湖蚵桌-臺南海鮮的在地人時間表-875da2.html</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -14601,6 +14616,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kenting-墾丁街頭美食-給夜貓-浪人與潛水客的南國補給路線-d1bf34.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kenting-墾丁街頭美食-臺灣最南端的海灣味蕾冒險-6602a8.html</loc>
     <lastmod>2026-03-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -16396,6 +16416,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-高雄街頭美食-跟著港都作息-從市場早餐吃到深夜熱炒-6ae6e0.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-kaohsiung-高雄街食地景-港都工業城的多族群美食生態-a1be1b.html</loc>
     <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -16453,6 +16478,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-jiufen-九份佛教素食修行路-山城靈修與清心淨食的完美結合-c4f948.html</loc>
     <lastmod>2026-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-vegetarian-buddhist-jiufen-九份佛教素食散步指南-避開葷湯與五辛-從草仔粿吃到山城茶席-eb15cc.html</loc>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -54211,6 +54241,21 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-kenting-不只下水玩-從風-砂與聚落讀懂墾丁海灘-82ac36.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-kenting-不只下水玩-沿著風-珊瑚砂與潮間帶閱讀墾丁海灘-1fede1.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-kenting-不只南灣與水上活動-沿著風-砂與珊瑚礁讀懂墾丁海灘-b85f33.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-beaches-yilan-不只外澳踏浪-從黑沙-海蝕灣到漁村生活讀懂宜蘭海岸-5bf529.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -67462,6 +67507,11 @@
     <priority>0.8</priority>
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-tainan-臺南的國家公園-沿著潮汐讀懂臺江的鹽田-潟湖與聚落-8f80f0.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-national-parks-tainan-臺南的國家公園-沿著鹽田-潟湖與海上古道讀懂臺江-63f369.html</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
