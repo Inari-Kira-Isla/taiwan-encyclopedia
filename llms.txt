@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 15534 篇，覆蓋 16 個行業
+- 總文章數: 15579 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,8 +15,8 @@
 - robots.txt: https://taiwan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 4454 篇
-- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 4413 篇
+- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 4473 篇
+- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 4439 篇
 - [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 3301 篇
 - [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 3257 篇
 - [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 65 篇
@@ -41,6 +41,7 @@
 - [高雄夜市不只六合：沿著居民晚餐路線吃進港都日常](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-kaohsiung-高雄夜市不只六合-沿著居民晚餐路線吃進港都日常-7f666b.html): 簡介 高雄夜市最有意思的地方，不是攤位多到走不完，而是每一處都有明確的服務物件：瑞豐接住巨蛋商圈與年輕族群，光華、忠孝供...
 - [一個人也能吃懂臺北：沿著捷運尋找五種牛肉麵性格](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-taipei-一個人也能吃懂臺北-沿著捷運尋找五種牛肉麵性格-74f244.html): 簡介  臺北牛肉麵不是單一流派，而是一張由外省麵食、清真飲食、老市場與深夜勞動共同畫出的味覺地圖。這篇不排「必吃冠軍」，...
 - [日月潭牛肉麵指南：避開排隊人潮，找一碗適合環湖旅程的熱湯](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-sun-moon-lake-日月潭牛肉麵指南-避開排隊人潮-找一碗適合環湖旅程的熱湯-7699fc.html): 【簡介】 在日月潭吃牛肉麵，重點不是追逐某一家「必吃名店」，而是配合環湖動線、天氣與同行者選對落腳處。這裡的牛肉麵屬於旅...
+- [臺北牛肉麵獨食地圖：從清燉、紅燒到深夜加辣的五碗選擇](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-taipei-臺北牛肉麵獨食地圖-從清燉-紅燒到深夜加辣的五碗選擇-aa4a1c.html): 簡介 臺北牛肉麵不只是一張名店排行榜，更像一套城市作息表：西門町有商場地下室的老派家常味，臺北車站周邊供應上班族的快速午...
 - [臺北牛肉麵的四種性格：一個人也能吃懂的捷運巡味指南](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-taipei-臺北牛肉麵的四種性格-一個人也能吃懂的捷運巡味指南-e3302c.html): 簡介  臺北牛肉麵沒有唯一正統答案。有人認紅燒湯要濃厚帶辣，有人堅持清燉才能看出牛肉與高湯的真功夫；老臺北則常把重點放在...
 - [花蓮牛肉麵慢行指南：不追名店，沿著山海日常吃一碗](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-hualien-花蓮牛肉麵慢行指南-不追名店-沿著山海日常吃一碗-bb6104.html): 簡介 花蓮牛肉麵的魅力，不在於複製臺北名店的紅燒公式，而是把城市的慢節奏、移居人口與東部飲食習慣煮進湯裡。這篇不走排隊名...
 - [阿里山牛肉麵指南：追日出之外，找一碗真正適合山路旅人的熱湯](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-alishan-阿里山牛肉麵指南-追日出之外-找一碗真正適合山路旅人的熱湯-d2c51d.html): 簡介  阿里山並沒有像臺北那樣形成鮮明的牛肉麵流派；這裡的重點，是一碗麵如何配合高海拔氣候、山區交通與旅人作息。清晨看完...
@@ -51,7 +52,6 @@
 - [九份珍珠奶茶散步指南：別只追名店，沿著山城動線喝出茶底差異](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-jiufen-九份珍珠奶茶散步指南-別只追名店-沿著山城動線喝出茶底差異-efc602.html): 【簡介】 在九份喝珍珠奶茶，重點不是尋找一杯「全臺最強」，而是挑對休息地點。這座山城坡陡、階梯多，假日人潮又密，一杯能邊...
 - [九份夜市不是一條夜市：從山城晚餐路線吃進居民的日常](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-jiufen-九份夜市不是一條夜市-從山城晚餐路線吃進居民的日常-b1281b.html): 簡介  先講結論：九份沒有典型的固定攤販型夜市。大家搜尋「Jiufen Night Markets」，真正要找的多半是入...
 - [不只逢甲：從早餐市場到廟口宵夜，吃懂臺中的街頭美食](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-taichung-不只逢甲-從早餐市場到廟口宵夜-吃懂臺中的街頭美食-4f249c.html): 簡介 臺中的街頭美食，真正迷人的地方不是某一攤「必吃」，而是城市從早到晚都有不同的進食節奏。早晨在第五市場吃炒麵配豬血湯...
-- [宜蘭 Street Food：沿著鐵道與市場吃，從清晨魚丸湯到深夜卜肉](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-yilan-宜蘭-street-food-沿著鐵道與市場吃-從清晨魚丸湯到深夜卜肉-c39d5c.html): 簡介  宜蘭街頭美食的精髓，不是把羅東夜市從頭掃到尾，而是跟著在地人的生活時鐘走：清晨上市場喝熱湯，中午在老街吃粉腸，傍...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）
@@ -76,5 +76,3 @@
 ### 平台
 - [CloudPipe AI](https://cloudpipe-landing.vercel.app) — AI 能見度平台
 - [AI 學習寶庫](https://inari-kira-isla.github.io/Openclaw/) — 每日 AI 教學與提示詞
-
-> 同步時間: 2026-08-12T10:00 UTC
