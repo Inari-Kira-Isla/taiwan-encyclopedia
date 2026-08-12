@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 15579 篇，覆蓋 16 個行業
+- 總文章數: 15581 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,7 +15,7 @@
 - robots.txt: https://taiwan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 4473 篇
+- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 4475 篇
 - [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 4439 篇
 - [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 3301 篇
 - [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 3257 篇
