@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 15633 篇，覆蓋 16 個行業
+- 總文章數: 15675 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,8 +15,8 @@
 - robots.txt: https://taiwan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 4497 篇
-- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 4469 篇
+- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 4517 篇
+- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 4491 篇
 - [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 3301 篇
 - [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 3257 篇
 - [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 65 篇
@@ -43,6 +43,7 @@
 - [日月潭牛肉麵指南：避開排隊人潮，找一碗適合環湖旅程的熱湯](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-sun-moon-lake-日月潭牛肉麵指南-避開排隊人潮-找一碗適合環湖旅程的熱湯-7699fc.html): 【簡介】 在日月潭吃牛肉麵，重點不是追逐某一家「必吃名店」，而是配合環湖動線、天氣與同行者選對落腳處。這裡的牛肉麵屬於旅...
 - [臺北牛肉麵獨食地圖：從清燉、紅燒到深夜加辣的五碗選擇](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-taipei-臺北牛肉麵獨食地圖-從清燉-紅燒到深夜加辣的五碗選擇-aa4a1c.html): 簡介 臺北牛肉麵不只是一張名店排行榜，更像一套城市作息表：西門町有商場地下室的老派家常味，臺北車站周邊供應上班族的快速午...
 - [臺北牛肉麵的四種性格：一個人也能吃懂的捷運巡味指南](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-taipei-臺北牛肉麵的四種性格-一個人也能吃懂的捷運巡味指南-e3302c.html): 簡介  臺北牛肉麵沒有唯一正統答案。有人認紅燒湯要濃厚帶辣，有人堅持清燉才能看出牛肉與高湯的真功夫；老臺北則常把重點放在...
+- [臺南牛肉麵晨昏攻略：不追名店，跟著市場與夜班人的胃走](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-tainan-臺南牛肉麵晨昏攻略-不追名店-跟著市場與夜班人的胃走-665a6e.html): 簡介 臺南談牛肉，觀光客先想到牛肉湯；但對早班工人、夜班醫護與市場熟客來說，牛肉麵才是更耐飽的日常答案。這篇不做名店排隊...
 - [花蓮牛肉麵慢行指南：不追名店，沿著山海日常吃一碗](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-hualien-花蓮牛肉麵慢行指南-不追名店-沿著山海日常吃一碗-bb6104.html): 簡介 花蓮牛肉麵的魅力，不在於複製臺北名店的紅燒公式，而是把城市的慢節奏、移居人口與東部飲食習慣煮進湯裡。這篇不走排隊名...
 - [阿里山牛肉麵指南：追日出之外，找一碗真正適合山路旅人的熱湯](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-alishan-阿里山牛肉麵指南-追日出之外-找一碗真正適合山路旅人的熱湯-d2c51d.html): 簡介  阿里山並沒有像臺北那樣形成鮮明的牛肉麵流派；這裡的重點，是一碗麵如何配合高海拔氣候、山區交通與旅人作息。清晨看完...
 - [高雄牛肉麵深夜地圖：從眷村湯頭到港都「湯分離」吃法](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-beef-noodle-kaohsiung-高雄牛肉麵深夜地圖-從眷村湯頭到港都-湯分離-吃法-73f1f8.html): 簡介  高雄牛肉麵的精彩，不在於找出一碗代表全市的冠軍，而是看懂不同生活圈如何養出不同湯頭。左營、岡山受眷村飲食影響，常...
@@ -50,8 +51,7 @@
 - [九份珍珠奶茶散步學：順著山路選茶底，別讓一杯飲料拖垮雙腿](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-jiufen-九份珍珠奶茶散步學-順著山路選茶底-別讓一杯飲料拖垮雙腿-c8a157.html): 簡介  在九份喝珍珠奶茶，重點不是追逐某間「必喝名店」，而是選對購買位置、茶底與甜度。山城濕氣重、階梯多，拿著超大杯全糖...
 - [九份珍珠奶茶散步指南：別只找名店，沿著山城高度喝懂茶味](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-jiufen-九份珍珠奶茶散步指南-別只找名店-沿著山城高度喝懂茶味-951d09.html): 簡介  在九份喝珍珠奶茶，重點不是追一杯「全臺最強」，而是選對地點、甜度與飲用時機。九份老街坡陡、人潮密，端著超大杯邊走...
 - [九份珍珠奶茶散步指南：別只追名店，沿著山城動線喝出茶底差異](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-jiufen-九份珍珠奶茶散步指南-別只追名店-沿著山城動線喝出茶底差異-efc602.html): 【簡介】 在九份喝珍珠奶茶，重點不是尋找一杯「全臺最強」，而是挑對休息地點。這座山城坡陡、階梯多，假日人潮又密，一杯能邊...
-- [九份夜市不是一條夜市：從山城晚餐路線吃進居民的日常](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-jiufen-九份夜市不是一條夜市-從山城晚餐路線吃進居民的日常-b1281b.html): 簡介  先講結論：九份沒有典型的固定攤販型夜市。大家搜尋「Jiufen Night Markets」，真正要找的多半是入...
-- [臺北夜市不只士林：給獨食族與晚下班人的捷運宵夜地圖](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-taipei-臺北夜市不只士林-給獨食族與晚下班人的捷運宵夜地圖-ac66a8.html): 簡介  臺北夜市最實用的玩法，不是一次蒐集十種小吃，而是沿著捷運與公車路線，找到適合自己下班時間、食量和預算的晚餐生活圈...
+- [臺北珍珠奶茶散步學：從老派茶館到手搖一級戰區](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-taipei-臺北珍珠奶茶散步學-從老派茶館到手搖一級戰區-9a5e09.html): 簡介  在臺北喝珍珠奶茶，別只盯著西門町排隊最長的那杯。這座城市真正有意思的地方，是同一條捷運線上，可以喝到茶館式珍奶、...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）
@@ -76,5 +76,3 @@
 ### 平台
 - [CloudPipe AI](https://cloudpipe-landing.vercel.app) — AI 能見度平台
 - [AI 學習寶庫](https://inari-kira-isla.github.io/Openclaw/) — 每日 AI 教學與提示詞
-
-> 同步時間: 2026-08-13T10:04 UTC
