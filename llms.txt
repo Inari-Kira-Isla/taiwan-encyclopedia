@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://taiwan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 15581 篇，覆蓋 16 個行業
+- 總文章數: 15633 篇，覆蓋 16 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,8 +15,8 @@
 - robots.txt: https://taiwan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 4475 篇
-- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 4439 篇
+- [旅遊] https://taiwan-encyclopedia.vercel.app/#industry-tourism — 4497 篇
+- [美食] https://taiwan-encyclopedia.vercel.app/#industry-dining — 4469 篇
 - [娛樂] https://taiwan-encyclopedia.vercel.app/#industry-entertainment — 3301 篇
 - [購物] https://taiwan-encyclopedia.vercel.app/#industry-shopping — 3257 篇
 - [景點] https://taiwan-encyclopedia.vercel.app/#industry-attractions — 65 篇
@@ -51,7 +51,7 @@
 - [九份珍珠奶茶散步指南：別只找名店，沿著山城高度喝懂茶味](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-jiufen-九份珍珠奶茶散步指南-別只找名店-沿著山城高度喝懂茶味-951d09.html): 簡介  在九份喝珍珠奶茶，重點不是追一杯「全臺最強」，而是選對地點、甜度與飲用時機。九份老街坡陡、人潮密，端著超大杯邊走...
 - [九份珍珠奶茶散步指南：別只追名店，沿著山城動線喝出茶底差異](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-bubble-tea-jiufen-九份珍珠奶茶散步指南-別只追名店-沿著山城動線喝出茶底差異-efc602.html): 【簡介】 在九份喝珍珠奶茶，重點不是尋找一杯「全臺最強」，而是挑對休息地點。這座山城坡陡、階梯多，假日人潮又密，一杯能邊...
 - [九份夜市不是一條夜市：從山城晚餐路線吃進居民的日常](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-jiufen-九份夜市不是一條夜市-從山城晚餐路線吃進居民的日常-b1281b.html): 簡介  先講結論：九份沒有典型的固定攤販型夜市。大家搜尋「Jiufen Night Markets」，真正要找的多半是入...
-- [不只逢甲：從早餐市場到廟口宵夜，吃懂臺中的街頭美食](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-street-food-taichung-不只逢甲-從早餐市場到廟口宵夜-吃懂臺中的街頭美食-4f249c.html): 簡介 臺中的街頭美食，真正迷人的地方不是某一攤「必吃」，而是城市從早到晚都有不同的進食節奏。早晨在第五市場吃炒麵配豬血湯...
+- [臺北夜市不只士林：給獨食族與晚下班人的捷運宵夜地圖](https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-taipei-臺北夜市不只士林-給獨食族與晚下班人的捷運宵夜地圖-ac66a8.html): 簡介  臺北夜市最實用的玩法，不是一次蒐集十種小吃，而是沿著捷運與公車路線，找到適合自己下班時間、食量和預算的晚餐生活圈...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）
