@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://taiwan-encyclopedia.vercel.app/</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/llms.txt</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>  <url>
@@ -10858,6 +10858,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-kenting-墾丁夜市不只一條街-給自駕家庭與慢遊旅人的兩晚夜食地圖-3c6203.html</loc>
     <lastmod>2026-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-dining-night-markets-kenting-墾丁夜市不只一條街-給自駕旅人的兩晚夜食路線-7238fd.html</loc>
+    <lastmod>2026-08-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -61216,6 +61221,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-alishan-走進鄒族的生活領域-阿里山文化部落深度指南-b837ba.html</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cultural-villages-alishan-阿里山公路沿線的山村故事-5個蘊含鄒族與茶文化的生活聚落-e85f91.html</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -62258,6 +62268,11 @@
   </url>  <url>
     <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cycling-routes-yilan-宜蘭單車路線-沿水圳-溪流與舊鐵道讀懂蘭陽平原-835d41.html</loc>
     <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://taiwan-encyclopedia.vercel.app/articles/taiwan-tourism-cycling-routes-yilan-宜蘭單車路線-沿著水圳-舊鐵道與海風讀一座平原-c92b85.html</loc>
+    <lastmod>2026-08-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
