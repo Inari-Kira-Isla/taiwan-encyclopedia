@@ -1,0 +1,66 @@
+/* Integration only: the regional geometry/tokens remain the shared design. */
+.art>div{position:absolute;inset:0;display:none}.art svg{display:block}.ridge{transform-box:fill-box}
+.stage[data-play] .art-taiwan .ridge{animation:rise var(--dur-deliberate) var(--spring-gentle) both;animation-delay:calc(var(--d)*110ms*var(--tempo))}
+@keyframes rise{from{transform:translateY(40px);opacity:0}to{transform:none;opacity:1}}
+.stage[data-play] .art-taiwan .lamp{animation:warm var(--dur-slow) var(--ease-standard) both;animation-delay:calc(500ms*var(--tempo) + var(--d)*60ms*var(--tempo))}
+@keyframes warm{0%{opacity:0}60%{opacity:1}75%{opacity:.7}100%{opacity:1}}
+/* Keep the shared preference rules last in the cascade. */
+.lens-note:empty{display:none}.lens-note{font-size:13px;color:var(--stage-muted);margin:8px 0 0;min-height:22px}.search>p{position:absolute;left:0;top:100%;font-size:13px;margin:6px 0;color:var(--stage-ink);background:var(--stage);border-radius:4px;padding:2px 6px}.search>p:empty{display:none}.search>button{position:relative;margin-top:32px;min-height:44px;color:var(--stage-ink);background:var(--stage);border:1px solid var(--stage-muted);border-radius:8px}.search-go:focus-visible,.search input:focus-visible{outline:3px solid #1E4FA0;outline-offset:2px}.search input:focus-visible{border-radius:2px;outline:none}
+.fchip{text-decoration:none}.more-cats{position:relative;flex:none}.more-cats summary{cursor:pointer;list-style:none}.more-cats>div{display:flex;gap:8px;flex-wrap:wrap;padding:12px 0}.more-cats a{display:inline-block;padding:8px;border:1px solid var(--control-border);border-radius:8px;text-decoration:none;min-height:44px}.pagination{display:flex;justify-content:center;align-items:center;gap:16px;flex-wrap:wrap;margin:32px 0}.cluster-section{margin-top:48px}.cluster-section>.stackwrap{max-width:700px}.cluster{margin:20px 0 0}.cluster summary{min-height:44px;cursor:pointer;white-space:normal}.cluster li{margin:12px 0;overflow-wrap:anywhere}.cluster a{display:block;padding:8px 0}.covers{margin:56px 0}.covers a{color:var(--ink);text-decoration:none;display:block}.covers img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:var(--radius-card)}.covers a>span{display:block;padding:12px 0}.ecosystem-footer nav{display:flex;gap:12px;flex-wrap:wrap}.ecosystem-footer nav a{min-height:44px;padding:8px 0}.note h2{font-size:22px}.note dt{font-weight:700}.note dd{margin:0 0 12px}.note{font-size:14px}.state{margin-bottom:24px}.loading-skeletons{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;width:100%}.loading-skeletons .sk{min-height:180px}.state.loading{display:block}.state .loading-note{margin-bottom:12px}dialog{max-width:min(90vw,520px);border:1px solid var(--control-border);border-radius:12px;background:var(--paper);color:var(--ink);padding:24px}dialog::backdrop{background:rgba(16,34,31,.65)}dialog .door{color:var(--ink);min-height:44px}dialog nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-bottom:20px}dialog .door:hover{background:var(--chip-bg);color:var(--ink)}.art-taiwan{display:block}
+/* Legacy markup has bare headings, tables and images, not article-* children. */
+.article-content h2{font:700 24px/1.35 var(--font-display);margin:32px 0 16px}.article-content h3{font:700 19px/1.4 var(--font-display);margin:28px 0 12px}.article-content img{max-width:100%;height:auto}.article-content table{display:block;max-width:100%;overflow-x:auto;border-collapse:collapse}.article-content th,.article-content td{padding:10px;border:1px solid var(--hairline)}.article-content pre{max-width:100%;overflow-x:auto;white-space:pre-wrap}.article-content a{color:var(--accent)}.article-nav a,.ecosystem-footer a{color:var(--stage-ink)}.article-nav{--focus:var(--stage-accent)}.article-footer{background:var(--stage);color:var(--stage-ink);padding:32px var(--gutter);text-align:center}.article-footer a{color:var(--stage-ink)}
+@media(max-width:760px){.loading-skeletons{grid-template-columns:minmax(0,1fr)}.loading-skeletons .sk:nth-child(n+2){display:none}.ecosystem-footer{padding-bottom:96px}}
+@media(prefers-reduced-motion:reduce){.stage[data-play] .art-taiwan .ridge,.stage[data-play] .art-taiwan .lamp{animation-duration:1ms!important;animation-delay:0s!important}}
+[data-motion=reduce] .stage[data-play] .art-taiwan .ridge,[data-motion=reduce] .stage[data-play] .art-taiwan .lamp{animation-duration:1ms!important;animation-delay:0s!important}
+.filters .fchip[aria-current=true]{background:var(--accent);color:var(--on-accent);border-color:var(--accent)}
+.art>.art-taiwan{display:block}
+
+.src,.stack-tag{font-size:13px}
+/* Existing invisible telemetry pixels must not extend the visual layout. */
+.article-footer~img[width="1"][height="1"][alt=""]{display:none}
+.article-header h1{font:var(--display-weight) clamp(28px,4vw,44px)/1.35 var(--font-display);color:var(--ink);margin:0 0 20px;overflow-wrap:anywhere}
+.article-tags{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 24px;font-size:13px;color:var(--muted)}.article-tags .tag{background:var(--chip-bg);color:var(--chip-ink);padding:3px 8px;border-radius:8px}
+.filters{align-items:flex-start}.filters>.fchip,.more-cats summary{height:44px}
+
+/* Outbound doors need their target geometry; site tokens remain Taiwan-only. */
+
+.portal[data-region=macau] .p.tile-door{background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80'%3E%3Crect width='80' height='80' fill='%23F7F3EA'/%3E%3Crect x='3' y='3' width='74' height='74' fill='none' stroke='%231E4FA0' stroke-width='1.5'/%3E%3Cpath d='M40 10C52 22 52 30 40 40 28 30 28 22 40 10ZM40 70C28 58 28 50 40 40 52 50 52 58 40 70ZM10 40C22 28 30 28 40 40 30 52 22 52 10 40ZM70 40C58 52 50 52 40 40 50 28 58 28 70 40Z' fill='%231E4FA0'/%3E%3C/svg%3E") center/cover;--door-start:perspective(600px) rotateY(90deg);--door-end:perspective(600px) rotateY(-90deg)}
+
+
+.portal[data-region=japan] .p.paper-door{top:0;width:50.5%;height:100%;background:#F3EFE6}.portal[data-region=japan] .p.paper-door.a{left:0;border-right:1px solid #CFC6B5;--door-start:translateX(-101%);--door-end:translateX(-101%)}.portal[data-region=japan] .p.paper-door.b{right:0;border-left:1px solid #CFC6B5;--door-start:translateX(101%);--door-end:translateX(101%)}
+
+
+.portal[data-region=hongkong] .p.shutter-door{inset:0;background:repeating-linear-gradient(180deg,#5A6068 0 10px,#3E434A 10px 12px,#4A5058 12px 22px,#2E3237 22px 24px);box-shadow:0 6px 0 #1A1D21;--door-start:translateY(-101%);--door-end:translateY(-101%)}.portal[data-region=hongkong] .p.band-door{--door-rest:translateY(calc(50vh - 17px));left:0;right:0;top:0;height:34px;background:repeating-linear-gradient(90deg,#C62E2E 0 22px,#F2F2EE 22px 30px,#1F4FA3 30px 52px,#F2F2EE 52px 60px);--door-start:translateY(-120px);--door-end:translateY(-120px)}
+
+
+.portal[data-region=world] .p.map-door{inset:0;background:#EDF1F2;background-image:linear-gradient(#0E568733 1px,transparent 1px),linear-gradient(90deg,#0E568733 1px,transparent 1px);background-size:80px 80px;--door-start:scale(1.4);--door-end:scale(.85)}.portal[data-region=world] .p.ring-door{left:50%;top:50%;width:60vmax;height:60vmax;margin-left:-30vmax;margin-top:-30vmax;border-radius:50%;border:1.5px solid #0F2238;--door-start:scale(.2);--door-end:scale(2.4)}
+
+
+.portal[data-region=malaysia] .p.arch-door{width:20.3%;top:0;bottom:0;border-radius:999px 999px 0 0;background:#1D5A48;transform-origin:bottom;--door-start:scaleY(0);--door-end:scaleY(0)}.portal[data-region=malaysia] .p.arch-door:nth-child(even){background:#F4EFE5}
+
+
+/* Browse stacks keep disclosures outside cards; equal card rows align their feet. */
+#article-grid{min-height:0;align-items:start;row-gap:24px}
+.stackgroup{min-width:0;display:grid;grid-template-rows:subgrid;grid-row:span 2;row-gap:0}
+.stackgroup>.card{height:100%;display:flex;flex-direction:column}
+.stackgroup .card-foot{margin-top:auto;min-height:20px}
+.cluster-details{font-size:13px;min-width:0;overflow-wrap:anywhere}
+.cluster-details summary{cursor:pointer;color:var(--accent);min-height:44px;display:flex;align-items:center}
+.cluster-details ul{padding-left:20px}.cluster-details li>a{display:block;min-height:44px;padding:10px 0}
+.covers .grid{min-height:0}.covers{margin:48px 0 32px}.covers+.faq-section{margin-top:32px}
+.category-head{padding:24px 0 8px}.category-head h1{font:700 clamp(26px,3vw,36px)/1.35 var(--font-display);margin:12px 0}
+.breadcrumbs{display:flex;align-items:center;gap:12px;font-size:14px;flex-wrap:wrap}.breadcrumbs a{min-height:44px;display:flex;align-items:center;color:var(--accent)}
+.category-tools{--stage-ink:var(--ink);--stage-muted:var(--muted);--stage-accent:var(--accent);--stage:var(--paper);padding-block:12px}
+.category-tools .search{max-width:700px}.category-tools .lens{margin-top:20px}
+.category-tools .trust-note a{color:var(--accent)}
+.trust-note{margin-block:20px 12px}.trust-note a{display:inline-flex;align-items:center;min-height:44px;color:var(--stage-ink)}
+.faq-question{min-height:44px}.wordmark{min-height:44px}.catnav a{min-height:44px;display:inline-flex;align-items:center}
+.note a{min-height:44px}.ecosystem-link{min-width:44px;display:inline-flex;align-items:center;min-height:44px;padding-inline:8px}
+
+.filters .fchip[aria-current=true] .n{color:var(--on-accent)}
+
+/* Search status stays in document order above its recovery controls. */
+.search>p{position:static;margin:8px 0 0;padding:2px 0;background:transparent}
+.search>button{margin-top:8px}
+.search>.btn.sec{min-width:44px;min-height:44px}
+.title-note{align-self:flex-start;font-size:12px;line-height:1.5;color:var(--muted);background:color-mix(in srgb,var(--ink) 6%,var(--surface));border:1px solid var(--hairline);border-radius:999px;padding:3px 8px}

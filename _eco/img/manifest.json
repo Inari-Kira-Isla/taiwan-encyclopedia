@@ -1,0 +1,779 @@
+{
+  "region": "taiwan",
+  "generator": "built-in image_gen",
+  "publication": "not published; Kira selection pending",
+  "kb_policy": "decimal bytes, stricter than KiB",
+  "assets": [
+    {
+      "slot": "cover-food",
+      "prompt": "Editorial illustration for a regional city guide. Flat shapes with subtle paper grain, limited palette, soft daylight, calm composition with generous negative space in the upper third for overlaying a title. No people's faces in detail (if people appear they are small, distant, simplified, diverse). Absolutely no text, letters, numbers, signage writing, logos, watermarks, flags, religious icons or political symbols. Avoid tourist-postcard clichés and do not combine many landmarks in one frame. 16:9, high resolution.\nA morning street-food stall at dawn: steam rising from stacked bamboo steamers rendered as simple shapes, plastic stools, a single bare light bulb, mountains faintly visible far behind. Warm amber light, deep green shadows. No signboards.\nPalette: night green #10221F, lamp amber #F2A93B, tea green #1D6450, cream #F6EBD9, temple red #A8352A sparingly. Same coherent flat editorial paper-cut illustration series. Keep primary subject within central 60% width and height; outer 20% edges expendable for cropping.  No indigenous motifs, costumes or patterns; no deities; no maps or island outlines.\nAvoid: text, letters, characters, calligraphy, signage text, logo, watermark, flag, religious statue, shrine deity, protest, stereotype costume, geisha, samurai, rising sun, casino, neon cyberpunk fog, collage of landmarks, purple gradient, 3D render, glossy\nGenerate one image only, 1600×900 landscape.\nSTRICT ART DIRECTION: very simple flat vector-like paper cut shapes, not a detailed painting, not realistic. No people at all. The steamer stack and stall counter must be compact, centred at x=50%, y=55%, entirely within x=20–80% and y=20–80%; no main subject at right edge. No sun disc. Use only five palette colours and gentle grain. Only one stall, two small simple stools, one bare bulb, three steamers. Large quiet empty upper third.",
+      "palette": {
+        "night_green": "#10221F",
+        "lamp_amber": "#F2A93B",
+        "tea_green": "#1D6450",
+        "cream": "#F6EBD9",
+        "red_sparing": "#A8352A"
+      },
+      "palette_usage": "deep green structure, tea-green layers, amber illumination, cream highlights; red sparingly",
+      "alt_draft": "晨光下嘅簡約街邊攤，竹蒸籠冒住熱氣，暖燈照住綠色攤檔同膠凳。",
+      "files": [
+        {
+          "filename": "cover-food-original.png",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 1974405,
+          "sha256": "98a18ab4f6c61d409cd9da0ba3d40dfdfbbc72a9410aba601007cf841501c6b9",
+          "quality": null,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-food-1600.png",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "bytes": 1853169,
+          "sha256": "17396f2e83aba81660d28978643741ec4577223352a251ef02d7dd88b7578947",
+          "quality": null,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-food-1200.avif",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 34559,
+          "sha256": "fa6219e8b1765d617bfe38056ec5c61de05d2cf223bd7daaf617056efe098b3d",
+          "quality": 60,
+          "budget_bytes": 60000
+        },
+        {
+          "filename": "cover-food-1200.webp",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 32456,
+          "sha256": "8c1dea7fc9a35f03ad447481a968e360b5b9d9742e573427e3ef519627bb1f8e",
+          "quality": 78,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-food-800.avif",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 18091,
+          "sha256": "ceeaf109cebc6359eeb2eb47238008cc0b0655ab122d1ba345e2cc11b27522cc",
+          "quality": 60,
+          "budget_bytes": 28000
+        },
+        {
+          "filename": "cover-food-800.webp",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 18786,
+          "sha256": "018740034220725b92536a3b2c78466658092bca10eefe76f9696ea3f406c076",
+          "quality": 78,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-food-480.avif",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 8439,
+          "sha256": "691418142a132d71998709b67543d5f5f8e370ef14449dc8f25a3bb7c2f26a98",
+          "quality": 60,
+          "budget_bytes": 28000
+        },
+        {
+          "filename": "cover-food-480.webp",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 9512,
+          "sha256": "20b019df204cdfae430578b3b7d1e40544eb191f4002a8c352a2bc07bbd7fb2f",
+          "quality": 78,
+          "budget_bytes": null
+        }
+      ],
+      "normalization": "Native 1672x941 preserved; centre fit to 1600x900; OG centre fit to 1200x630.",
+      "visual_review": {
+        "reviewer": "Codex main session manual visual inspection",
+        "criteria": {
+          "no_text_logo_watermark": true,
+          "no_identifiable_faces": true,
+          "no_religious_flag_political": true,
+          "coherent_palette_style": true,
+          "central_60_crop_safe": true,
+          "no_anatomy_defects": true,
+          "no_indigenous_motifs_or_maps": true
+        },
+        "file_hashes": {
+          "cover-food-original.png": "98a18ab4f6c61d409cd9da0ba3d40dfdfbbc72a9410aba601007cf841501c6b9",
+          "cover-food-1600.png": "17396f2e83aba81660d28978643741ec4577223352a251ef02d7dd88b7578947",
+          "cover-food-1200.avif": "fa6219e8b1765d617bfe38056ec5c61de05d2cf223bd7daaf617056efe098b3d",
+          "cover-food-1200.webp": "8c1dea7fc9a35f03ad447481a968e360b5b9d9742e573427e3ef519627bb1f8e",
+          "cover-food-800.avif": "ceeaf109cebc6359eeb2eb47238008cc0b0655ab122d1ba345e2cc11b27522cc",
+          "cover-food-800.webp": "018740034220725b92536a3b2c78466658092bca10eefe76f9696ea3f406c076",
+          "cover-food-480.avif": "691418142a132d71998709b67543d5f5f8e370ef14449dc8f25a3bb7c2f26a98",
+          "cover-food-480.webp": "20b019df204cdfae430578b3b7d1e40544eb191f4002a8c352a2bc07bbd7fb2f"
+        },
+        "evidence": [
+          "contact-sheet.png",
+          "qa/central-60-sheet.png",
+          "qa/encoded-sheet.png",
+          "qa/cover-food-200-tl.png",
+          "qa/cover-food-200-tr.png",
+          "qa/cover-food-200-bl.png",
+          "qa/cover-food-200-br.png",
+          "qa/cover-food-200-centre.png"
+        ],
+        "notes": "Compact centred steamers, bulb and counter survive central crop. Stool legs are secondary and may crop. No people."
+      }
+    },
+    {
+      "slot": "cover-see",
+      "prompt": "Editorial illustration for a regional city guide. Flat shapes with subtle paper grain, limited palette, soft daylight, calm composition with generous negative space in the upper third for overlaying a title. No people's faces in detail (if people appear they are small, distant, simplified, diverse). Absolutely no text, letters, numbers, signage writing, logos, watermarks, flags, religious icons or political symbols. Avoid tourist-postcard clichés and do not combine many landmarks in one frame. 16:9, high resolution.\nLayered green mountain ridges from the coastline to high peaks, a small coastal road and a sliver of sea in the foreground, evening sky, a string of warm round lights crossing the top of the frame. Painterly flat layers.\nPalette: night green #10221F, lamp amber #F2A93B, tea green #1D6450, cream #F6EBD9, temple red #A8352A sparingly. Same coherent flat editorial paper-cut illustration series. Keep primary subject within central 60% width and height; outer 20% edges expendable for cropping.  No indigenous motifs, costumes or patterns; no deities; no maps or island outlines.\nAvoid: text, letters, characters, calligraphy, signage text, logo, watermark, flag, religious statue, shrine deity, protest, stereotype costume, geisha, samurai, rising sun, casino, neon cyberpunk fog, collage of landmarks, purple gradient, 3D render, glossy\nGenerate one image only, 1600×900 landscape.\nSTRICT ART DIRECTION: simple flat paper-cut shapes, minimal detail, no realistic painting. Match a cream sky and deep tea-green paper mountains with amber lighting. Keep mountain peaks and road bend in central 60%; peripheral ridges may bleed. No sun disc. Bulbs small and understated.",
+      "palette": {
+        "night_green": "#10221F",
+        "lamp_amber": "#F2A93B",
+        "tea_green": "#1D6450",
+        "cream": "#F6EBD9",
+        "red_sparing": "#A8352A"
+      },
+      "palette_usage": "deep green structure, tea-green layers, amber illumination, cream highlights; red sparingly",
+      "alt_draft": "暖燈串下，層層綠色山脊沿海伸展，一條小路繞過海岸。",
+      "files": [
+        {
+          "filename": "cover-see-original.png",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2106191,
+          "sha256": "9df1fd27b879c8e377be9fbae6d58041310ad2a9dad678bf8c01e0b03831f611",
+          "quality": null,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-see-1600.png",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "bytes": 1973308,
+          "sha256": "8647c283f740498709835d00a3e112244daab94f9f46384479a958735a76e000",
+          "quality": null,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-see-1200.avif",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 56975,
+          "sha256": "efd40ec0e0347d58234d470454b7d5b3eb956c96c4c83e208287439851a96ffc",
+          "quality": 60,
+          "budget_bytes": 60000
+        },
+        {
+          "filename": "cover-see-1200.webp",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 58296,
+          "sha256": "a0446cfccc96cb13fa94498fbe0c6cecb78ab28f866798ced873b50afc05ddb6",
+          "quality": 78,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-see-800.avif",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 25123,
+          "sha256": "815d721c2004120a4d8acf705e5cff7679ea7a19ee2b513c3adc5f4b623d1c0f",
+          "quality": 55,
+          "budget_bytes": 28000
+        },
+        {
+          "filename": "cover-see-800.webp",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 32396,
+          "sha256": "d8d87169afa385912304dfc4429dd0ae43c191b069b30d10b2043f5db3d1e35b",
+          "quality": 78,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-see-480.avif",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 13605,
+          "sha256": "e51d9eb3519840701cee10f22a07cc14784165a5f1fdf6237e4464319141453a",
+          "quality": 60,
+          "budget_bytes": 28000
+        },
+        {
+          "filename": "cover-see-480.webp",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 15242,
+          "sha256": "e1ef1790ab95e1c2037259570afddfddddc43c2060da85e9e1bf34af94ec239a",
+          "quality": 78,
+          "budget_bytes": null
+        }
+      ],
+      "normalization": "Native 1672x941 preserved; centre fit to 1600x900; OG centre fit to 1200x630.",
+      "visual_review": {
+        "reviewer": "Codex main session manual visual inspection",
+        "criteria": {
+          "no_text_logo_watermark": true,
+          "no_identifiable_faces": true,
+          "no_religious_flag_political": true,
+          "coherent_palette_style": true,
+          "central_60_crop_safe": true,
+          "no_anatomy_defects": true,
+          "no_indigenous_motifs_or_maps": true
+        },
+        "file_hashes": {
+          "cover-see-original.png": "9df1fd27b879c8e377be9fbae6d58041310ad2a9dad678bf8c01e0b03831f611",
+          "cover-see-1600.png": "8647c283f740498709835d00a3e112244daab94f9f46384479a958735a76e000",
+          "cover-see-1200.avif": "efd40ec0e0347d58234d470454b7d5b3eb956c96c4c83e208287439851a96ffc",
+          "cover-see-1200.webp": "a0446cfccc96cb13fa94498fbe0c6cecb78ab28f866798ced873b50afc05ddb6",
+          "cover-see-800.avif": "815d721c2004120a4d8acf705e5cff7679ea7a19ee2b513c3adc5f4b623d1c0f",
+          "cover-see-800.webp": "d8d87169afa385912304dfc4429dd0ae43c191b069b30d10b2043f5db3d1e35b",
+          "cover-see-480.avif": "e51d9eb3519840701cee10f22a07cc14784165a5f1fdf6237e4464319141453a",
+          "cover-see-480.webp": "e1ef1790ab95e1c2037259570afddfddddc43c2060da85e9e1bf34af94ec239a"
+        },
+        "evidence": [
+          "contact-sheet.png",
+          "qa/central-60-sheet.png",
+          "qa/encoded-sheet.png",
+          "qa/cover-see-200-tl.png",
+          "qa/cover-see-200-tr.png",
+          "qa/cover-see-200-bl.png",
+          "qa/cover-see-200-br.png",
+          "qa/cover-see-200-centre.png"
+        ],
+        "notes": "Central crop retains mountain ridges, sea and road bend; peripheral lights/vehicle are expendable. Blank car plate inspected at 200%."
+      }
+    },
+    {
+      "slot": "cover-play",
+      "prompt": "Editorial illustration for a regional city guide. Flat shapes with subtle paper grain, limited palette, soft daylight, calm composition with generous negative space in the upper third for overlaying a title. No people's faces in detail (if people appear they are small, distant, simplified, diverse). Absolutely no text, letters, numbers, signage writing, logos, watermarks, flags, religious icons or political symbols. Avoid tourist-postcard clichés and do not combine many landmarks in one frame. 16:9, high resolution.\nA night market lane seen from above at a low angle: rows of stall canopies as flat rectangles, warm bulbs, small simplified figures far away, wet pavement reflections. No text on canopies, no temple deities.\nPalette: night green #10221F, lamp amber #F2A93B, tea green #1D6450, cream #F6EBD9, temple red #A8352A sparingly. Same coherent flat editorial paper-cut illustration series. Keep primary subject within central 60% width and height; outer 20% edges expendable for cropping.  No indigenous motifs, costumes or patterns; no deities; no maps or island outlines.\nAvoid: text, letters, characters, calligraphy, signage text, logo, watermark, flag, religious statue, shrine deity, protest, stereotype costume, geisha, samurai, rising sun, casino, neon cyberpunk fog, collage of landmarks, purple gradient, 3D render, glossy\nGenerate one image only, 1600×900 landscape.\nSTRICT ART DIRECTION: simple flat paper-cut rectangles and shapes, minimal detail, no realistic painting. Green and cream canopies, amber bulbs and tea-green shadows, red only tiny accent. Main lane and small distant faceless silhouettes in central 60%. No foreground people. Wide quiet upper third, no sun disc.",
+      "palette": {
+        "night_green": "#10221F",
+        "lamp_amber": "#F2A93B",
+        "tea_green": "#1D6450",
+        "cream": "#F6EBD9",
+        "red_sparing": "#A8352A"
+      },
+      "palette_usage": "deep green structure, tea-green layers, amber illumination, cream highlights; red sparingly",
+      "alt_draft": "深綠夜色中，夜市攤篷同暖燈沿濕潤街道排列，遠處有人物剪影。",
+      "files": [
+        {
+          "filename": "cover-play-original.png",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2176835,
+          "sha256": "8ebe7bd471f2694619277e496c105ee7143c22a49eb226dbf205cb3413a6b45d",
+          "quality": null,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-play-1600.png",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "bytes": 2043071,
+          "sha256": "c70f69ce1893cb4a26dcee6c0a80c10b882f8b8ede6728a8842bf413216467e8",
+          "quality": null,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-play-1200.avif",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 53195,
+          "sha256": "a50475db0e2cfdfa91fa74aa173bd0490cfbaa5c45caa639317cdfb497cb82e5",
+          "quality": 60,
+          "budget_bytes": 60000
+        },
+        {
+          "filename": "cover-play-1200.webp",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 57428,
+          "sha256": "23ec40467640d9765631706a63735585a02bfa71ae774471656bc15ca2414f20",
+          "quality": 78,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-play-800.avif",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 27203,
+          "sha256": "bfc9882c0fb0fdc75f187e471f23ffd700f4e97fcd14949961adc531abba6ffa",
+          "quality": 60,
+          "budget_bytes": 28000
+        },
+        {
+          "filename": "cover-play-800.webp",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 32030,
+          "sha256": "bc7a84ae023684a200dd40a0b0bf3228f2169b12f8304b3790438cf292257524",
+          "quality": 78,
+          "budget_bytes": null
+        },
+        {
+          "filename": "cover-play-480.avif",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 12223,
+          "sha256": "42f1841a7cc5980810272ddd3375ee86309a7b185ac11a6afaac2b021a031a2b",
+          "quality": 60,
+          "budget_bytes": 28000
+        },
+        {
+          "filename": "cover-play-480.webp",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 15096,
+          "sha256": "235b6e04209a5feb50ba6c214fb7b903b99d4e13667a326daf08a7c2084548bb",
+          "quality": 78,
+          "budget_bytes": null
+        }
+      ],
+      "normalization": "Native 1672x941 preserved; centre fit to 1600x900; OG centre fit to 1200x630.",
+      "visual_review": {
+        "reviewer": "Codex main session manual visual inspection",
+        "criteria": {
+          "no_text_logo_watermark": true,
+          "no_identifiable_faces": true,
+          "no_religious_flag_political": true,
+          "coherent_palette_style": true,
+          "central_60_crop_safe": true,
+          "no_anatomy_defects": true,
+          "no_indigenous_motifs_or_maps": true
+        },
+        "file_hashes": {
+          "cover-play-original.png": "8ebe7bd471f2694619277e496c105ee7143c22a49eb226dbf205cb3413a6b45d",
+          "cover-play-1600.png": "c70f69ce1893cb4a26dcee6c0a80c10b882f8b8ede6728a8842bf413216467e8",
+          "cover-play-1200.avif": "a50475db0e2cfdfa91fa74aa173bd0490cfbaa5c45caa639317cdfb497cb82e5",
+          "cover-play-1200.webp": "23ec40467640d9765631706a63735585a02bfa71ae774471656bc15ca2414f20",
+          "cover-play-800.avif": "bfc9882c0fb0fdc75f187e471f23ffd700f4e97fcd14949961adc531abba6ffa",
+          "cover-play-800.webp": "bc7a84ae023684a200dd40a0b0bf3228f2169b12f8304b3790438cf292257524",
+          "cover-play-480.avif": "42f1841a7cc5980810272ddd3375ee86309a7b185ac11a6afaac2b021a031a2b",
+          "cover-play-480.webp": "235b6e04209a5feb50ba6c214fb7b903b99d4e13667a326daf08a7c2084548bb"
+        },
+        "evidence": [
+          "contact-sheet.png",
+          "qa/central-60-sheet.png",
+          "qa/encoded-sheet.png",
+          "qa/cover-play-200-tl.png",
+          "qa/cover-play-200-tr.png",
+          "qa/cover-play-200-bl.png",
+          "qa/cover-play-200-br.png",
+          "qa/cover-play-200-centre.png"
+        ],
+        "notes": "Lane and small featureless figures survive crop. Canopies and reflections remain coherent, no written labels or facial detail."
+      }
+    },
+    {
+      "slot": "og",
+      "prompt": "Editorial illustration for a regional city guide. Flat shapes with subtle paper grain, limited palette, soft daylight, calm composition with generous negative space in the upper third for overlaying a title. No people's faces in detail (if people appear they are small, distant, simplified, diverse). Absolutely no text, letters, numbers, signage writing, logos, watermarks, flags, religious icons or political symbols. Avoid tourist-postcard clichés and do not combine many landmarks in one frame. 16:9, high resolution.\nThree flat layered mountain ridges in deep greens with a string of seven glowing amber bulbs above, dark night background, minimal.\nPalette: night green #10221F, lamp amber #F2A93B, tea green #1D6450, cream #F6EBD9, temple red #A8352A sparingly. Same coherent flat editorial paper-cut illustration series. Keep primary subject within central 60% width and height; outer 20% edges expendable for cropping. Keep all seven bulbs inside central crop. No indigenous motifs, costumes or patterns; no deities; no maps or island outlines.\nAvoid: text, letters, characters, calligraphy, signage text, logo, watermark, flag, religious statue, shrine deity, protest, stereotype costume, geisha, samurai, rising sun, casino, neon cyberpunk fog, collage of landmarks, purple gradient, 3D render, glossy\nGenerate one image only, 1600×900 landscape.\nSTRICT ART DIRECTION: only three simple cut-paper mountain bands and exactly seven bulbs on one sagging wire. No trees, houses, people, moon or sun. Bulbs in a compact string between x=25–75%, y=28–38%; mountain peaks inside x=20–80%, y=40–75%. Upper quarter empty deep night green. Flat minimal cut-paper graphic, not a detailed painting.",
+      "palette": {
+        "night_green": "#10221F",
+        "lamp_amber": "#F2A93B",
+        "tea_green": "#1D6450",
+        "cream": "#F6EBD9",
+        "red_sparing": "#A8352A"
+      },
+      "palette_usage": "deep green structure, tea-green layers, amber illumination, cream highlights; red sparingly",
+      "alt_draft": "深綠夜空下，七盞琥珀色燈泡懸喺三層山脊上方。",
+      "files": [
+        {
+          "filename": "og-original.png",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 1585286,
+          "sha256": "125ba349518edf0188a9f7794d3eb27866664cde3078f3b2ce729f984c01ee45",
+          "quality": null,
+          "budget_bytes": null
+        },
+        {
+          "filename": "og-1600.png",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "bytes": 1462112,
+          "sha256": "fb9918b1e14f1d58f06932cbc0d1724e004fb0becc0b57db51ec7361b4f9d66e",
+          "quality": null,
+          "budget_bytes": null
+        },
+        {
+          "filename": "og-1200.avif",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "bytes": 11278,
+          "sha256": "37f39c2460338b47accac49deb1646ad34489fe55ac796a490020be0f6e92a36",
+          "quality": 60,
+          "budget_bytes": 60000
+        },
+        {
+          "filename": "og-1200.webp",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "bytes": 9530,
+          "sha256": "f753553bb4e2b0ff4f259391e14e911981fc8dffc7a1e882522bf12c96ccc5cc",
+          "quality": 78,
+          "budget_bytes": null
+        },
+        {
+          "filename": "og-1200.jpg",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "bytes": 46599,
+          "sha256": "053056c949ab49052ab786d28ac7d1769612a9beb537185f54f1db460af27e54",
+          "quality": 88,
+          "budget_bytes": 120000
+        }
+      ],
+      "normalization": "Native 1672x941 preserved; centre fit to 1600x900; OG centre fit to 1200x630.",
+      "visual_review": {
+        "reviewer": "Codex main session manual visual inspection",
+        "criteria": {
+          "no_text_logo_watermark": true,
+          "no_identifiable_faces": true,
+          "no_religious_flag_political": true,
+          "coherent_palette_style": true,
+          "central_60_crop_safe": true,
+          "no_anatomy_defects": true,
+          "no_indigenous_motifs_or_maps": true
+        },
+        "file_hashes": {
+          "og-original.png": "125ba349518edf0188a9f7794d3eb27866664cde3078f3b2ce729f984c01ee45",
+          "og-1600.png": "fb9918b1e14f1d58f06932cbc0d1724e004fb0becc0b57db51ec7361b4f9d66e",
+          "og-1200.avif": "37f39c2460338b47accac49deb1646ad34489fe55ac796a490020be0f6e92a36",
+          "og-1200.webp": "f753553bb4e2b0ff4f259391e14e911981fc8dffc7a1e882522bf12c96ccc5cc",
+          "og-1200.jpg": "053056c949ab49052ab786d28ac7d1769612a9beb537185f54f1db460af27e54"
+        },
+        "evidence": [
+          "contact-sheet.png",
+          "qa/central-60-sheet.png",
+          "qa/encoded-sheet.png",
+          "qa/og-200-tl.png",
+          "qa/og-200-tr.png",
+          "qa/og-200-bl.png",
+          "qa/og-200-br.png",
+          "qa/og-200-centre.png"
+        ],
+        "notes": "Exactly seven bulbs and three ridge bands. Crop retains bulbs and ridge peaks; wire and peripheral slopes may bleed."
+      }
+    }
+  ],
+  "generation_retries": [
+    {
+      "slot": "cover-food",
+      "attempt": 1,
+      "result": "rejected",
+      "file": "rejected/cover-food-attempt-1.png",
+      "reason": "Too detailed; subject right aligned and not crop safe."
+    },
+    {
+      "slot": "cover-food",
+      "attempt": 2,
+      "result": "selected"
+    }
+  ],
+  "encoding_attempts": [
+    {
+      "file": "cover-food-1200.avif",
+      "quality": 60,
+      "bytes": 34559,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "60",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "cover-food-1200.png",
+        "cover-food-1200.avif"
+      ]
+    },
+    {
+      "file": "cover-food-800.avif",
+      "quality": 60,
+      "bytes": 18091,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "60",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "cover-food-800.png",
+        "cover-food-800.avif"
+      ]
+    },
+    {
+      "file": "cover-food-480.avif",
+      "quality": 60,
+      "bytes": 8439,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "60",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "cover-food-480.png",
+        "cover-food-480.avif"
+      ]
+    },
+    {
+      "file": "cover-see-1200.avif",
+      "quality": 60,
+      "bytes": 56975,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "60",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "cover-see-1200.png",
+        "cover-see-1200.avif"
+      ]
+    },
+    {
+      "file": "cover-see-800.avif",
+      "quality": 60,
+      "bytes": 29958,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "60",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "cover-see-800.png",
+        "cover-see-800.avif"
+      ]
+    },
+    {
+      "file": "cover-see-800.avif",
+      "quality": 55,
+      "bytes": 25123,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "55",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "cover-see-800.png",
+        "cover-see-800.avif"
+      ]
+    },
+    {
+      "file": "cover-see-480.avif",
+      "quality": 60,
+      "bytes": 13605,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "60",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "cover-see-480.png",
+        "cover-see-480.avif"
+      ]
+    },
+    {
+      "file": "cover-play-1200.avif",
+      "quality": 60,
+      "bytes": 53195,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "60",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "cover-play-1200.png",
+        "cover-play-1200.avif"
+      ]
+    },
+    {
+      "file": "cover-play-800.avif",
+      "quality": 60,
+      "bytes": 27203,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "60",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "cover-play-800.png",
+        "cover-play-800.avif"
+      ]
+    },
+    {
+      "file": "cover-play-480.avif",
+      "quality": 60,
+      "bytes": 12223,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "60",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "cover-play-480.png",
+        "cover-play-480.avif"
+      ]
+    },
+    {
+      "file": "og-1200.avif",
+      "quality": 60,
+      "bytes": 11278,
+      "command": [
+        "avifenc",
+        "-j",
+        "2",
+        "-s",
+        "6",
+        "-q",
+        "60",
+        "-y",
+        "420",
+        "--ignore-exif",
+        "--ignore-xmp",
+        "--ignore-icc",
+        "og-1200.png",
+        "og-1200.avif"
+      ]
+    },
+    {
+      "file": "og-1200.jpg",
+      "quality": 88,
+      "bytes": 46599
+    }
+  ],
+  "og_title_overlay": "Background only. HTML title composition and production integration are outside raster asset selection.",
+  "headless_preview": {
+    "status": "BLOCKED",
+    "command_exit_code": 134,
+    "notes": "Google Chrome headless aborted in restricted execution. Encoded images independently decoded and viewed; browser layout is unverified.",
+    "attempts": 2
+  }
+}
